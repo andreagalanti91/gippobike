@@ -1,0 +1,1156 @@
+suggestion,language,source,seed,times_seen,place,product,intent,modifiers
+noleggio bici da corsa,IT,bing,noleggio bici val d'elsa,34,none,road,transactional-rental,road
+noleggio lungo termine bici elettriche,IT,bing,noleggio bici san gimignano,32,none,e-bike,transactional-rental,e-bike
+noleggio bici vicino al centro,IT,bing,noleggio bici san gimignano,30,none,bike,transactional-rental,near
+noleggio bici elettriche costo,IT,bing,noleggio bici val d'elsa,28,none,e-bike,price,price; e-bike
+noleggio bici elettriche milano,IT,bing,noleggio bici san gimignano,27,none,e-bike,transactional-rental,e-bike
+noleggio bici lungo termine,IT,bing,noleggio bici san gimignano,26,none,bike,transactional-rental,
+colle di val d'elsa,IT,bing,noleggio bici colle di val d'elsa,24,colle di val d'elsa,other,other,
+gippo bike colle val d'elsa,IT,bing,noleggio bici colle di val d'elsa,24,colle di val d'elsa,bike,other,
+noleggio furgoni colle di val d'elsa,IT,bing,noleggio bici colle di val d'elsa,24,colle di val d'elsa,other,transactional-rental,
+rent a bike italy,EN,bing,electric bike rental tuscany,22,none,bike,transactional-rental,
+colle di val d'elsa provincia,IT,bing,noleggio bici colle di val d'elsa,22,colle di val d'elsa,other,other,
+noleggio bici da corsa milano,IT,bing,noleggio bici da corsa chianti,22,none,road,transactional-rental,road
+noleggio bici elettriche bologna,IT,bing,noleggio bici elettriche chianti,22,none,e-bike,transactional-rental,e-bike
+noleggio bici elettriche roma,IT,bing,noleggio bici elettriche chianti,22,none,e-bike,transactional-rental,e-bike
+abc noleggio colle di val d'elsa,IT,bing,noleggio bici colle di val d'elsa,20,colle di val d'elsa,other,transactional-rental,
+biciclette elettriche a noleggio,IT,bing,noleggio bici elettriche chianti,20,none,e-bike,transactional-rental,e-bike
+colle di val elsa,IT,bing,noleggio bici colle di val d'elsa,20,none,other,other,
+dove si trova colle di val d'elsa,IT,bing,noleggio bici colle di val d'elsa,20,colle di val d'elsa,other,other,
+noleggio bici elettrica costo,IT,bing,noleggio bici elettriche chianti,20,none,e-bike,price,price; e-bike
+bici in val d'orcia,IT,bing,noleggio bici val d'orcia,18,val d'orcia,bike,other,
+crete senesi in moto,IT,bing,noleggio bici crete senesi,18,crete senesi,other,other,
+noleggio bici elettriche favignana,IT,bing,noleggio bici elettriche chianti,18,none,e-bike,transactional-rental,e-bike
+noleggio bici val di fassa,IT,bing,noleggio bici colle di val d'elsa,18,none,bike,transactional-rental,
+circolo 2 colle di val d'elsa,IT,bing,noleggio bici colle di val d'elsa,16,colle di val d'elsa,other,other,
+colle di val d'elsa 53034,IT,bing,noleggio bici colle di val d'elsa,16,colle di val d'elsa,other,other,
+noleggio bici da corsa rimini,IT,bing,noleggio bici val d'orcia,16,none,road,transactional-rental,road
+noleggio bici elettriche torino,IT,bing,noleggio bici elettriche chianti,16,none,e-bike,transactional-rental,e-bike
+noleggio biciclette elettriche milano,IT,bing,noleggio bici elettriche chianti,16,none,e-bike,transactional-rental,e-bike
+bike rental florence italy,EN,google+bing,bike rental florence,14,florence,bike,transactional-rental,
+gravel bike hire siena,EN,bing,gravel bike rental tuscany,14,siena,gravel,transactional-rental,gravel
+gravel bike near me for rent,EN,bing,gravel bike rental tuscany,14,none,gravel,transactional-rental,gravel; near
+gravel bike near me rental,EN,bing,gravel bike rental tuscany,14,none,gravel,transactional-rental,gravel; near
+gravel bike rental girona,EN,bing,gravel bike rental tuscany,14,none,gravel,transactional-rental,gravel
+rent a gravel bike,EN,bing,gravel bike rental tuscany,14,none,gravel,transactional-rental,gravel
+affitto colle di val d'elsa,IT,bing,noleggio bici colle di val d'elsa,14,colle di val d'elsa,other,transactional-rental,
+case colle di val d'elsa,IT,bing,noleggio bici colle di val d'elsa,14,colle di val d'elsa,other,other,
+noleggio bici elettriche iseo,IT,bing,noleggio bici elettriche siena,14,none,e-bike,transactional-rental,e-bike
+noleggio vespa val d'orcia,IT,google+bing,noleggio bici val d'orcia,14,val d'orcia,vespa,transactional-rental,
+val d'orcia in moto itinerari,IT,bing,noleggio e-bike val d'orcia,14,val d'orcia,tour,tour/guided,routes/itineraries
+electric bike rental near me,EN,bing,electric bike rental tuscany,12,none,e-bike,transactional-rental,e-bike; near
+location velo electrique sienne,FR,google+bing,location vélo sienne,12,siena,e-bike,transactional-rental,e-bike
+colle di val d'elsa siena,IT,bing,noleggio e-bike colle di val d'elsa,12,colle di val d'elsa,other,other,
+convenienza del noleggio bici,IT,bing,noleggio bici da corsa siena,12,none,bike,transactional-rental,
+giro della val d'orcia,IT,bing,tour in bici val d'orcia,12,val d'orcia,other,other,
+giro delle crete senesi,IT,bing,noleggio e-bike crete senesi,12,crete senesi,other,other,
+noleggio a lungo termine bici elettriche,IT,bing,noleggio bici val d'elsa,12,none,e-bike,transactional-rental,e-bike
+tour in bici toscana,IT,google+bing,tour in bici chianti,11,tuscany,tour,tour/guided,
+bike rentals in italy,EN,google,rent a bike tuscany,10,none,bike,transactional-rental,
+bike rentals tuscany italy,EN,bing,bike rental tuscany,10,tuscany,bike,transactional-rental,
+bike tour florence italy,EN,google+bing,electric bike rental florence,10,florence,tour,tour/guided,
+ebike rentals florence italy,EN,bing,e-bike rental san gimignano,10,florence,e-bike,transactional-rental,e-bike
+rent a bike in sanremo,EN,bing,bike rental san gimignano,10,none,bike,transactional-rental,
+road bike rental siena italy,EN,google+bing,bike rental siena,10,siena,road,transactional-rental,road
+location vélo électrique île de france,FR,bing,location vélo électrique toscane,10,none,e-bike,transactional-rental,e-bike
+giro in moto val d'orcia,IT,bing,noleggio e-bike val d'orcia,10,val d'orcia,other,other,
+noleggio bici da strada,IT,bing,noleggio bici da corsa chianti,10,none,bike,transactional-rental,
+noleggio bici gaiole in chianti,IT,google+bing,noleggio bici chianti,10,chianti,bike,transactional-rental,
+noleggio lungo termine biciclette,IT,bing,noleggio bici da corsa chianti,10,none,bike,transactional-rental,
+noleggio moto a creta,IT,bing,noleggio bici crete senesi,10,none,other,transactional-rental,
+noleggio scooter a creta,IT,bing,noleggio bici crete senesi,10,none,vespa,transactional-rental,
+strada delle crete senesi,IT,bing,noleggio bici da corsa crete senesi,10,crete senesi,other,other,
+val d'orcia in moto,IT,bing,bici elettriche val d'orcia,10,val d'orcia,other,other,
+car rental in san gimignano italy,EN,bing,bike rental san gimignano,8,san gimignano,other,transactional-rental,
+e bike rental siena italy,EN,google,bike rental siena,8,siena,bike,transactional-rental,
+electric bike company near me rental,EN,bing,electric bike rental chianti,8,none,e-bike,transactional-rental,e-bike; near
+florence road bike rental,EN,bing,bike rental florence,8,florence,road,transactional-rental,road
+gravel bike rental seattle,EN,bing,gravel bike rental siena,8,none,gravel,transactional-rental,gravel
+gravel biking near me rentals,EN,bing,gravel bike rental chianti,8,none,gravel,transactional-rental,gravel; near
+how much does it cost to rent a vespa in italy,EN,google,vespa rental chianti,8,none,vespa,price,price
+motorcycle rental florence italy,EN,bing,electric bike rental florence,8,florence,other,transactional-rental,
+renting bikes in florence italy,EN,bing,electric bike rental florence,8,florence,bike,transactional-rental,
+renting motorbike in italy,EN,bing,road bike rental chianti,8,none,other,transactional-rental,
+self guided bike tours tuscany,EN,bing,electric bike rental tuscany,8,tuscany,tour,tour/guided,guided
+viator e bike tour florence,EN,bing,electric bike rental florence,8,florence,tour,tour/guided,
+location de vélo électrique,FR,bing,location vélo électrique toscane,8,none,e-bike,transactional-rental,e-bike
+location vente vélo électrique,FR,bing,location vélo électrique toscane,8,none,e-bike,transactional-rental,e-bike
+location vélo électrique tarif,FR,bing,location vélo électrique toscane,8,none,e-bike,price,price; e-bike
+vélo électrique en location,FR,bing,location vélo électrique toscane,8,none,e-bike,transactional-rental,e-bike
+camminare e viaggiare colle val d'elsa,IT,bing,noleggio e-bike colle di val d'elsa,8,colle di val d'elsa,other,other,
+colle di val d’elsa,IT,bing,noleggio gravel colle di val d'elsa,8,colle di val d'elsa,other,other,
+colle val d'elsa piscina,IT,bing,noleggio e-bike colle di val d'elsa,8,colle di val d'elsa,other,other,
+cosa sono le crete senesi,IT,bing,tour in bici crete senesi,8,crete senesi,other,other,
+negozio bici elettriche firenze,IT,google+bing,bici elettriche firenze,8,florence,shop/repair,shop/repair,e-bike
+noleggio bici a valencia,IT,bing,noleggio bici val d'elsa,8,none,bike,transactional-rental,
+noleggio bici da corsa gran canaria,IT,bing,noleggio bici da corsa siena,8,none,road,transactional-rental,road
+noleggio bici lignano sabbiadoro,IT,bing,noleggio bici san gimignano,8,none,bike,transactional-rental,
+noleggio bici valencia centro,IT,bing,noleggio bici val d'elsa,8,none,bike,transactional-rental,
+noleggio biciclette lignano sabbiadoro,IT,bing,noleggio bici san gimignano,8,none,bike,transactional-rental,
+noleggio sci val di fassa,IT,bing,noleggio bici val d'elsa,8,none,other,transactional-rental,
+palestra workout colle di val d'elsa,IT,bing,tour in bici colle di val d'elsa,8,colle di val d'elsa,other,other,
+tour in bici organizzati,IT,bing,tour in bici chianti,8,none,tour,tour/guided,
+viaggio in val d'orcia,IT,bing,noleggio e-bike val d'orcia,8,val d'orcia,other,other,
+e bike rental chianti,EN,google,bike rental chianti,7,chianti,bike,transactional-rental,
+e bike rental san gimignano,EN,google,bike rental san gimignano,7,san gimignano,bike,transactional-rental,
+e bike rental siena,EN,google,bike rental siena,7,siena,bike,transactional-rental,
+electric bike rental florence oregon,EN,google,e-bike rental florence,7,florence,e-bike,transactional-rental,e-bike
+florence e bike tour,EN,bing,electric bike rental florence,7,florence,tour,tour/guided,
+gravel bike rental siena italy,EN,google,bike rental siena,7,siena,gravel,transactional-rental,gravel
+noleggio bici da corsa siena,IT,google,noleggio bici siena,7,siena,road,transactional-rental,road
+noleggio bici da corsa toscana,IT,google,noleggio bici toscana,7,tuscany,road,transactional-rental,road
+noleggio bici elettriche chianti,IT,google,noleggio bici chianti,7,chianti,e-bike,transactional-rental,e-bike
+noleggio bici elettriche gaiole in chianti,IT,google,noleggio bici chianti,7,chianti,e-bike,transactional-rental,e-bike
+noleggio bici elettriche san gimignano,IT,google,noleggio bici san gimignano,7,san gimignano,e-bike,transactional-rental,e-bike
+noleggio bici elettriche siena,IT,google,noleggio bici siena,7,siena,e-bike,transactional-rental,e-bike
+noleggio bici elettriche toscana,IT,google,noleggio bici toscana,7,tuscany,e-bike,transactional-rental,e-bike
+noleggio bici elettriche val d orcia,IT,google,noleggio bici val d'orcia,7,val d'orcia,e-bike,transactional-rental,e-bike
+noleggio bici vicino alla stazione,IT,bing,noleggio bici da corsa chianti,7,none,bike,transactional-rental,near
+bike and go lignano,EN,bing,bike rental san gimignano,6,none,bike,other,
+bike tours in tuscany,EN,bing,road bike rental tuscany,6,tuscany,tour,tour/guided,
+can you rent a vespa in italy,EN,google,vespa rental siena,6,none,vespa,transactional-rental,
+e bike rental tuscany,EN,google,bike rental tuscany,6,tuscany,bike,transactional-rental,
+e bikes in tuscany,EN,bing,electric bike rental tuscany,6,tuscany,bike,other,
+electric bike rental siena,EN,google,e-bike rental siena,6,siena,e-bike,transactional-rental,e-bike
+electric bike rentals near me availability,EN,bing,electric bike rental siena,6,none,e-bike,transactional-rental,e-bike; near
+florence city tours by bike,EN,bing,electric bike rental florence,6,florence,tour,tour/guided,
+florence siena tour by bike,EN,bing,road bike rental siena,6,siena,tour,tour/guided,
+girona gravel bike hire,EN,bing,gravel bike rental tuscany,6,none,gravel,transactional-rental,gravel
+gravel bike hire girona,EN,bing,gravel bike rental chianti,6,none,gravel,transactional-rental,gravel
+gravel bike rental siena,EN,google,bike rental siena,6,siena,gravel,transactional-rental,gravel
+gravel bike rental tuscany,EN,google,bike rental tuscany,6,tuscany,gravel,transactional-rental,gravel
+gravel bike rentals tucson az,EN,bing,gravel bike rental tuscany,6,none,gravel,transactional-rental,gravel
+italian cycle tours tuscany,EN,bing,road bike rental tuscany,6,tuscany,tour,tour/guided,
+lucca italy bike rental,EN,bing,electric bike rental tuscany,6,none,bike,transactional-rental,
+noleggio biciclette lignano sabbiadoro,EN,bing,bike rental san gimignano,6,none,bike,transactional-rental,
+online electric bike rental,EN,bing,electric bike rental tuscany,6,none,e-bike,transactional-rental,e-bike
+rent a bike sancho,EN,bing,bike rental san gimignano,6,none,bike,transactional-rental,
+rent a center electric bike,EN,bing,electric bike rental chianti,6,none,e-bike,transactional-rental,e-bike
+rent a electric bike,EN,bing,electric bike rental tuscany,6,none,e-bike,transactional-rental,e-bike
+rural tuscan rentals with bike tours,EN,bing,electric bike rental tuscany,6,none,tour,tour/guided,
+san gimignano guided tour,EN,bing,bike rental san gimignano,6,san gimignano,tour,tour/guided,guided
+tours de san gimignano,EN,bing,bike rental san gimignano,6,san gimignano,tour,tour/guided,
+vespa rental florence italy,EN,google+bing,vespa rental san gimignano,6,florence,vespa,transactional-rental,
+vespa rental tuscany chianti,EN,bing,vespa rental tuscany,6,chianti,vespa,transactional-rental,
+vespa rental tuscany siena,EN,bing,vespa rental tuscany,6,siena,vespa,transactional-rental,
+location vélo électrique corse,FR,bing,location vélo électrique toscane,6,none,e-bike,transactional-rental,e-bike
+location vélo électrique paris,FR,bing,location vélo électrique chianti,6,none,e-bike,transactional-rental,e-bike
+prix location vélo électrique,FR,bing,location vélo électrique chianti,6,none,e-bike,price,price; e-bike
+bici elettriche da città,IT,bing,bici elettriche san gimignano,6,none,e-bike,other,e-bike
+colle di val d'elsa 53034 si,IT,bing,noleggio bici elettriche colle di val d'elsa,6,colle di val d'elsa,other,other,
+colle val d'elsa immagini,IT,bing,tour in bici colle di val d'elsa,6,colle di val d'elsa,other,other,
+negozio bici da corsa,IT,bing,noleggio bici da corsa poggibonsi,6,none,shop/repair,shop/repair,road
+negozio biciclette san giuliano milanese,IT,bing,negozio bici san gimignano,6,none,shop/repair,shop/repair,
+noleggio auto a creta,IT,bing,noleggio bici crete senesi,6,none,other,transactional-rental,
+noleggio auto creta economico,IT,bing,noleggio bici crete senesi,6,none,other,transactional-rental,
+noleggio bici cammino santiago,IT,bing,noleggio bici san gimignano,6,none,bike,transactional-rental,
+noleggio bici elettriche firenze,IT,google+bing,noleggio bici firenze,6,florence,e-bike,transactional-rental,e-bike
+noleggio bici eroica gaiole in chianti,IT,google,noleggio bici chianti,6,chianti,bike,info-route,eroica
+noleggio bici san francisco,IT,bing,noleggio bici san gimignano,6,none,bike,transactional-rental,
+noleggio bici san lorenzo,IT,bing,noleggio bici san gimignano,6,none,bike,transactional-rental,
+noleggio bici san vincenzo,IT,bing,noleggio bici san gimignano,6,none,bike,transactional-rental,
+noleggio vespa lago di garda,IT,bing,noleggio vespa san gimignano,6,none,vespa,transactional-rental,
+riparazione bici elettriche milano,IT,bing,bici elettriche san gimignano,6,none,shop/repair,shop/repair,e-bike
+san gimignano e dintorni,IT,bing,tour in bici san gimignano,6,san gimignano,other,other,
+tour in bicicletta organizzati,IT,bing,tour in bici chianti,6,none,tour,tour/guided,
+bike rental siena italy,EN,google+bing,bike rental siena,5,siena,bike,transactional-rental,
+e bike rental florence italy,EN,google,e-bike rental florence,5,florence,bike,transactional-rental,
+e bike rental greve in chianti,EN,google,e-bike rental chianti,5,chianti,bike,transactional-rental,
+e bike rental radda in chianti,EN,google,e-bike rental chianti,5,chianti,bike,transactional-rental,
+gravel bike rental florence italy,EN,google,gravel bike rental florence,5,florence,gravel,transactional-rental,gravel
+road bike rental san gimignano,EN,google,bike rental san gimignano,5,san gimignano,road,transactional-rental,road
+road bike rental siena,EN,google,bike rental siena,5,siena,road,transactional-rental,road
+road bike rental tuscany,EN,google,bike rental tuscany,5,tuscany,road,transactional-rental,road
+noleggio bici da corsa firenze,IT,google+bing,noleggio bici da corsa firenze,5,florence,road,transactional-rental,road
+noleggio bici elettriche firenze prezzi,IT,google,noleggio bici elettriche firenze,5,florence,e-bike,price,price; e-bike
+noleggio bici firenze santa maria novella,IT,google,noleggio bici firenze,5,florence,bike,transactional-rental,
+val d'orcia dove alloggiare,IT,bing,noleggio bici val d'orcia,5,val d'orcia,other,other,
+e bike mieten privat,DE,bing,e-bike verleih san gimignano,4,none,bike,transactional-rental,
+e-bike mieten in der nähe,DE,bing,e-bike verleih san gimignano,4,none,e-bike,transactional-rental,e-bike; near
+fahrradverleih florenz,DE,google+bing,fahrradverleih florenz,4,florence,bike,transactional-rental,
+fahrradverleih siena,DE,google+bing,fahrradverleih siena,4,siena,bike,transactional-rental,
+fahrradverleih toskana,DE,google+bing,fahrradverleih toskana,4,tuscany,bike,transactional-rental,
+mehrtägige radtour toskana,DE,google+bing,radtour toskana,4,tuscany,tour,tour/guided,
+radtour florenz siena,DE,google,radtour siena,4,siena,tour,tour/guided,
+radtour toskana berichte,DE,google+bing,radtour toskana,4,tuscany,tour,tour/guided,
+bicycle tours in tuscany italy,EN,bing,road bike rental tuscany,4,tuscany,tour,tour/guided,
+bike rental castellina in chianti,EN,google,bike rental chianti,4,chianti,bike,transactional-rental,
+bike rental gaiole in chianti,EN,google,bike rental chianti,4,chianti,bike,transactional-rental,
+bike rental radda in chianti,EN,google,bike rental chianti,4,chianti,bike,transactional-rental,
+bike rental victoria bc,EN,bing,road bike rental volterra,4,none,bike,transactional-rental,
+bike rentals in sonoma ca,EN,bing,bike rental san gimignano,4,none,bike,transactional-rental,
+bike rentals in victoria,EN,bing,road bike rental volterra,4,none,bike,transactional-rental,
+bike rentals near me electric,EN,bing,electric bike rental siena,4,none,e-bike,transactional-rental,e-bike; near
+bike riding in florence italy,EN,bing,road bike rental florence,4,florence,bike,other,
+bike riding in tuscany italy,EN,bing,road bike rental tuscany,4,tuscany,bike,other,
+bike tour florence to siena,EN,google,bike tour siena,4,siena,tour,tour/guided,
+bike tours in tuscany italy,EN,bing,road bike rental tuscany,4,tuscany,tour,tour/guided,
+biking in florence italy,EN,bing,road bike rental florence,4,florence,other,other,
+catania rent a bike,EN,bing,rent a bike tuscany,4,none,bike,transactional-rental,
+cycling in tuscany italy,EN,bing,road bike rental tuscany,4,tuscany,bike,other,
+cycling tour tuscany,EN,google+bing,bike tour tuscany,4,tuscany,tour,tour/guided,
+e bike rent siena,EN,google,e-bike rental siena,4,siena,bike,transactional-rental,
+e bike rental firenze,EN,google,e-bike rental florence,4,florence,bike,transactional-rental,
+e bike rental san diego,EN,bing,e-bike rental san gimignano,4,none,bike,transactional-rental,
+e bike tour florence italy,EN,google+bing,bike tour florence,4,florence,tour,tour/guided,
+electric bicycle rental near me reviews,EN,bing,electric bike rental chianti,4,none,e-bike,transactional-rental,e-bike; near; reviews
+electric bike for rent,EN,bing,electric bike rental siena,4,none,e-bike,transactional-rental,e-bike
+electric bike for rent near me,EN,bing,electric bike rental siena,4,none,e-bike,transactional-rental,e-bike; near
+electric bike rental firenze,EN,google,e-bike rental florence,4,florence,e-bike,transactional-rental,e-bike
+electric bikes rent a center,EN,bing,electric bike rental chianti,4,none,e-bike,transactional-rental,e-bike
+electric dirt bike rental,EN,bing,electric bike rental chianti,4,none,e-bike,transactional-rental,e-bike
+electric mini bike rentals near me,EN,bing,electric bike rental siena,4,none,e-bike,transactional-rental,e-bike; near
+florence italy guided bike tours,EN,bing,road bike rental florence,4,florence,tour,tour/guided,guided
+gravel bike rental florence,EN,google,gravel bike rental florence,4,florence,gravel,transactional-rental,gravel
+guided tour in florence by bike,EN,bing,road bike rental florence,4,florence,tour,tour/guided,guided
+how to rent a bike in vienna,EN,google,bike rental volterra,4,none,bike,transactional-rental,
+is san gimignano worth visiting,EN,google,bike tour san gimignano,4,san gimignano,other,other,
+new tuscany scooter rental,EN,bing,electric bike rental tuscany,4,tuscany,vespa,transactional-rental,
+noleggio bici gaiole in chianti,EN,bing,road bike rental chianti,4,chianti,bike,transactional-rental,
+noleggio bici gravel milano,EN,bing,gravel bike rental chianti,4,none,gravel,transactional-rental,gravel
+noleggio bici gravel treviso,EN,bing,gravel bike rental san gimignano,4,none,gravel,transactional-rental,gravel
+noleggio bici lignano sabbiadoro,EN,bing,road bike rental san gimignano,4,none,bike,transactional-rental,
+noleggio bici san lorenzo,EN,bing,bike rental san gimignano,4,none,bike,transactional-rental,
+rent a bike bellinzona,EN,bing,rent a bike chianti,4,none,bike,transactional-rental,
+rent a car in siena italy,EN,bing,road bike rental siena,4,siena,other,transactional-rental,
+rent a car in siena online,EN,bing,road bike rental siena,4,siena,other,transactional-rental,
+rent a car in siena reviews,EN,bing,road bike rental siena,4,siena,other,transactional-rental,reviews
+rent ebike vicino al centro,EN,bing,rent a bike chianti,4,none,e-bike,transactional-rental,e-bike; near
+rent ebike vicino alla stazione,EN,bing,rent a bike chianti,4,none,e-bike,transactional-rental,e-bike; near
+rent electric bikes near me,EN,bing,electric bike rental siena,4,none,e-bike,transactional-rental,e-bike; near
+rental cars in siena italy,EN,bing,road bike rental siena,4,siena,other,transactional-rental,
+renting a car in siena italy,EN,bing,road bike rental siena,4,siena,other,transactional-rental,
+renting a car in tuscany,EN,google,bike rental tuscany,4,tuscany,other,transactional-rental,
+renting a vespa in tuscany,EN,google,vespa rental chianti,4,tuscany,vespa,transactional-rental,
+road bike rental florence italy,EN,google,road bike rental florence,4,florence,road,transactional-rental,road
+siena italy rental car,EN,bing,road bike rental siena,4,siena,other,transactional-rental,
+sorrento valley rent a bike,EN,bing,road bike rental volterra,4,none,bike,transactional-rental,
+special bike san giuliano milanese,EN,bing,bike rental san gimignano,4,none,bike,other,
+spiti valley bike rental,EN,bing,road bike rental chianti,4,none,bike,transactional-rental,
+tours from san gimignano,EN,bing,bike rental san gimignano,4,san gimignano,tour,tour/guided,
+tours in san gimignano,EN,bing,bike tour san gimignano,4,san gimignano,tour,tour/guided,
+tuscany cycling holidays,EN,google+bing,cycling tuscany,4,tuscany,bike,other,
+tuscany cycling tours,EN,google+bing,cycling tuscany,4,tuscany,tour,tour/guided,
+vespa rental tuscany florence,EN,bing,vespa rental tuscany,4,florence,vespa,transactional-rental,
+vespa rental tuscany san gimignano,EN,bing,vespa rental tuscany,4,san gimignano,vespa,transactional-rental,
+vespa tour san gimignano,EN,bing,bike tour san gimignano,4,san gimignano,vespa,tour/guided,
+victoria bike rentals and tours,EN,bing,road bike rental volterra,4,none,tour,tour/guided,
+victoria bike rentals victoria bc,EN,bing,road bike rental volterra,4,none,bike,transactional-rental,
+faire du vélo en toscane,FR,bing,location vélo électrique toscane,4,tuscany,bike,other,
+foto di san gimignano,FR,bing,location vélo san gimignano,4,san gimignano,other,other,
+la toscane à vélo,FR,bing,location vélo électrique toscane,4,tuscany,bike,other,
+location de vélo de route,FR,bing,vélo de route location chianti,4,none,road,info-route,road; routes/itineraries
+location velo electrique chianti,FR,google,location vélo chianti,4,chianti,e-bike,transactional-rental,e-bike
+location velo electrique toscane,FR,google,location vélo toscane,4,tuscany,e-bike,transactional-rental,e-bike
+location vélo saint florent,FR,bing,location vélo électrique florence,4,none,bike,transactional-rental,
+location vélo valence france,FR,bing,location vélo électrique florence,4,none,bike,transactional-rental,
+location vélo électrique nantes,FR,bing,location vélo électrique chianti,4,none,e-bike,transactional-rental,e-bike
+location vélo électrique porto vecchio,FR,bing,location vélo électrique toscane,4,none,e-bike,transactional-rental,e-bike
+location vélo électrique toulouse,FR,bing,location vélo électrique toscane,4,none,e-bike,transactional-rental,e-bike
+location vélo île de france,FR,bing,location vélo électrique florence,4,none,bike,transactional-rental,
+se garer à san gimignano,FR,bing,location vélo san gimignano,4,san gimignano,other,other,
+tours de san gimignano,FR,bing,location vélo san gimignano,4,san gimignano,tour,tour/guided,
+via del pino 31 san gimignano,FR,bing,location vélo san gimignano,4,san gimignano,other,other,
+via san gimignano milano,FR,bing,location vélo san gimignano,4,san gimignano,other,other,
+via san gimignano roma,FR,bing,location vélo san gimignano,4,san gimignano,other,other,
+viale san gimignano 4/a milano,FR,bing,location vélo san gimignano,4,san gimignano,other,other,
+viale san gimignano milano,FR,bing,location vélo san gimignano,4,san gimignano,other,other,
+53034 colle di val d'elsa si,IT,bing,officina bici colle di val d'elsa,4,colle di val d'elsa,other,other,
+bici a noleggio firenze,IT,bing,noleggio bici elettriche firenze,4,florence,bike,transactional-rental,
+bici da corsa elettriche,IT,bing,bici elettriche val d'elsa,4,none,road,other,e-bike; road
+bici da corsa usate toscana,IT,bing,noleggio bici da corsa toscana,4,tuscany,used,other,road
+bici elettriche da passeggio,IT,bing,noleggio bici elettriche poggibonsi,4,none,e-bike,other,e-bike
+bici elettriche usate toscana,IT,google,bici elettriche toscana,4,tuscany,used,other,e-bike
+bici usate siena,IT,google+bing,bici usate siena,4,siena,used,other,
+bici usate toscana,IT,google+bing,bici usate toscana,4,tuscany,used,other,
+booking colle val d'elsa,IT,bing,noleggio e-bike colle di val d'elsa,4,colle di val d'elsa,other,transactional-rental,
+centro benessere colle di val d'elsa,IT,bing,officina bici colle di val d'elsa,4,colle di val d'elsa,other,other,
+colle di val d'elsa dove si trova,IT,bing,noleggio vespa colle di val d'elsa,4,colle di val d'elsa,other,other,
+colle di val d'elsa maps,IT,bing,tour in bici colle di val d'elsa,4,colle di val d'elsa,other,other,
+crete senesi cosa vedere,IT,bing,tour in bici crete senesi,4,crete senesi,other,other,
+dintorni di san gimignano,IT,bing,negozio bici san gimignano,4,san gimignano,other,other,
+dove si trova san gimignano,IT,bing,negozio bici san gimignano,4,san gimignano,other,other,
+dove si trova val d'orcia,IT,bing,negozio bici val d'orcia,4,val d'orcia,other,other,
+dove soggiornare in val d'orcia,IT,bing,noleggio e-bike val d'orcia,4,val d'orcia,other,other,
+e bike noleggio lungo termine,IT,bing,noleggio e-bike val d'elsa,4,none,bike,transactional-rental,
+elettrauto colle val d'elsa,IT,bing,noleggio gravel colle di val d'elsa,4,colle di val d'elsa,other,other,
+esperienze da fare in val d'orcia,IT,bing,noleggio e-bike val d'orcia,4,val d'orcia,other,other,
+excelsior tour colle val d'elsa,IT,bing,tour in bici colle di val d'elsa,4,colle di val d'elsa,tour,tour/guided,
+itinerario in val d'orcia,IT,bing,tour in bici val d'orcia,4,val d'orcia,tour,tour/guided,routes/itineraries
+miglior noleggio auto creta,IT,bing,noleggio bici crete senesi,4,none,other,transactional-rental,
+migliore noleggio auto creta,IT,bing,noleggio bici crete senesi,4,none,other,transactional-rental,best
+negozio bici elettriche toscana,IT,google,bici elettriche toscana,4,tuscany,shop/repair,shop/repair,e-bike
+negozio bici san marino,IT,bing,negozio bici san gimignano,4,none,shop/repair,shop/repair,
+negozio bici siena,IT,google+bing,negozio bici siena,4,siena,shop/repair,shop/repair,
+negozio bici toscana,IT,google+bing,negozio bici toscana,4,tuscany,shop/repair,shop/repair,
+negozio bici usate firenze,IT,google,negozio bici firenze,4,florence,used,other,
+negozio bici usate toscana,IT,google,negozio bici toscana,4,tuscany,used,other,
+noleggio auto a siena,IT,bing,noleggio bici elettriche siena,4,siena,other,transactional-rental,
+noleggio auto creta senza deposito,IT,bing,noleggio bici crete senesi,4,none,other,transactional-rental,
+noleggio auto la valletta,IT,bing,noleggio e-bike val d'elsa,4,none,other,transactional-rental,
+noleggio auto san giorgio a cremano,IT,bing,noleggio gravel san gimignano,4,none,other,transactional-rental,
+noleggio bici castellina in chianti,IT,google,noleggio bici chianti,4,chianti,bike,transactional-rental,
+noleggio bici corsa milano,IT,bing,noleggio bici san gimignano,4,none,road,transactional-rental,road
+noleggio bici elettriche riva del garda,IT,bing,noleggio bici elettriche val d'elsa,4,none,e-bike,transactional-rental,e-bike
+noleggio bici firenze,IT,google+bing,noleggio bici firenze,4,florence,bike,transactional-rental,
+noleggio bici firenze prezzi,IT,google,noleggio bici firenze,4,florence,bike,price,price
+noleggio bici gravel milano,IT,bing,noleggio gravel san gimignano,4,none,gravel,transactional-rental,gravel
+noleggio bici gravel siena,IT,google,noleggio bici siena,4,siena,gravel,transactional-rental,gravel
+noleggio bici gravel toscana,IT,google,noleggio bici toscana,4,tuscany,gravel,transactional-rental,gravel
+noleggio bici gravel treviso,IT,bing,noleggio gravel san gimignano,4,none,gravel,transactional-rental,gravel
+noleggio bici greve in chianti,IT,google,noleggio bici chianti,4,chianti,bike,transactional-rental,
+noleggio bici monte isola,IT,bing,noleggio bici elettriche monteriggioni,4,none,bike,transactional-rental,
+noleggio bici panzano in chianti,IT,google,noleggio bici chianti,4,chianti,bike,transactional-rental,
+noleggio bici radda in chianti,IT,google,noleggio bici chianti,4,chianti,bike,transactional-rental,
+noleggio bici siena,IT,google+bing,noleggio bici siena,4,siena,bike,transactional-rental,
+noleggio bici siena e dintorni,IT,google,noleggio bici siena,4,siena,bike,transactional-rental,
+noleggio bici torrita di siena,IT,google,noleggio bici siena,4,siena,bike,transactional-rental,
+noleggio bici vicino al lago,IT,bing,noleggio bici da corsa chianti,4,none,bike,transactional-rental,near
+noleggio bike selva di val gardena,IT,bing,noleggio e-bike val d'elsa,4,none,bike,transactional-rental,
+noleggio van a creta,IT,bing,noleggio bici crete senesi,4,none,other,transactional-rental,
+noleggio vespa chianti,IT,google+bing,noleggio vespa chianti,4,chianti,vespa,transactional-rental,
+noleggio vespa firenze,IT,google+bing,noleggio vespa firenze,4,florence,vespa,transactional-rental,
+noleggio vespa riva del garda,IT,bing,noleggio vespa val d'elsa,4,none,vespa,transactional-rental,
+palestra colle val d'elsa,IT,bing,bici elettriche colle di val d'elsa,4,colle di val d'elsa,other,other,
+riparazione bici elettriche firenze,IT,google,bici elettriche firenze,4,florence,shop/repair,shop/repair,e-bike
+riparazione bici elettriche vicino a me,IT,bing,riparazione bici san gimignano,4,none,shop/repair,shop/repair,e-bike; near
+riparazione bici firenze,IT,google+bing,riparazione bici firenze,4,florence,shop/repair,shop/repair,
+riparazione biciclette vicino a me,IT,bing,riparazione bici san gimignano,4,none,shop/repair,shop/repair,near
+riparazione biciclette vicino al centro,IT,bing,riparazione bici san gimignano,4,none,shop/repair,shop/repair,near
+san gimignano mappa turistica,IT,bing,tour in bici san gimignano,4,san gimignano,other,other,
+sito bici elettriche usate,IT,bing,bici elettriche san gimignano,4,none,used,other,e-bike
+tour in bicicletta sicilia,IT,bing,tour in bici volterra,4,none,tour,tour/guided,
+tours in san gimignano,IT,bing,tour in bici san gimignano,4,san gimignano,tour,tour/guided,
+val d'orcia cosa fare,IT,bing,negozio bici val d'orcia,4,val d'orcia,other,other,
+bike rent florence duomo,EN,google,bike rental florence,3,florence,bike,transactional-rental,
+bike rental chianti italy,EN,google,bike rental chianti,3,chianti,bike,transactional-rental,
+bike rental florence,EN,google+bing,bike rental florence,3,florence,bike,transactional-rental,
+bike rental florence al,EN,google,bike rental florence,3,florence,bike,transactional-rental,
+bike rental florence app,EN,google,bike rental florence,3,florence,bike,transactional-rental,
+bike rental florence oregon,EN,google,bike rental florence,3,florence,bike,transactional-rental,
+bike rental florence reddit,EN,google,bike rental florence,3,florence,bike,transactional-rental,
+bike rental greve chianti,EN,google,bike rental chianti,3,chianti,bike,transactional-rental,
+bike rental san gimignano,EN,google+bing,bike rental san gimignano,3,san gimignano,bike,transactional-rental,
+bike rental siena,EN,google+bing,bike rental siena,3,siena,bike,transactional-rental,
+bike rental tuscany,EN,google+bing,bike rental tuscany,3,tuscany,bike,transactional-rental,
+bike rental tuscany italy,EN,google,bike rental tuscany,3,tuscany,bike,transactional-rental,
+bike rental tuscany trail,EN,google,bike rental tuscany,3,tuscany,bike,transactional-rental,
+bike tour florence,EN,google+bing,bike tour florence,3,florence,tour,tour/guided,
+bike tour tuscany,EN,google+bing,bike tour tuscany,3,tuscany,tour,tour/guided,
+cct bike rental tuscany,EN,google,bike rental tuscany,3,tuscany,bike,transactional-rental,
+cycling tuscany,EN,google+bing,cycling tuscany,3,tuscany,bike,other,
+df bike rental siena,EN,google,bike rental siena,3,siena,bike,transactional-rental,
+e bike rental florence,EN,google,e-bike rental florence,3,florence,bike,transactional-rental,
+electric bike rental florence,EN,google,electric bike rental florence,3,florence,e-bike,transactional-rental,e-bike
+electric bike rental florence italy,EN,google,electric bike rental florence,3,florence,e-bike,transactional-rental,e-bike
+electric bike rental tuscany,EN,google,electric bike rental tuscany,3,tuscany,e-bike,transactional-rental,e-bike
+florence sightseeing by bike,EN,bing,road bike rental florence,3,florence,bike,other,
+mountain bike rental tuscany,EN,google,bike rental tuscany,3,tuscany,mtb,transactional-rental,
+pf bike.rental san gimignano,EN,google,bike rental san gimignano,3,san gimignano,bike,transactional-rental,
+rent a bike florence,EN,google+bing,rent a bike florence,3,florence,bike,transactional-rental,
+road bike rental florence,EN,google,road bike rental florence,3,florence,road,transactional-rental,road
+tuscany bike tour from florence,EN,bing,bike tour tuscany,3,florence,tour,tour/guided,
+vespa rental florence,EN,google+bing,vespa rental florence,3,florence,vespa,transactional-rental,
+vespa rental siena italy,EN,google+bing,vespa rental siena,3,siena,vespa,transactional-rental,
+vespa rental tuscany,EN,google+bing,vespa rental tuscany,3,tuscany,vespa,transactional-rental,
+location velo electrique florence,FR,google,location vélo florence,3,florence,e-bike,transactional-rental,e-bike
+location vélo florence,FR,google+bing,location vélo florence,3,florence,bike,transactional-rental,
+bici elettriche firenze,IT,google+bing,bici elettriche firenze,3,florence,e-bike,other,e-bike
+bici usate firenze,IT,google+bing,bici usate firenze,3,florence,used,other,
+negozio bici firenze,IT,google+bing,negozio bici firenze,3,florence,shop/repair,shop/repair,
+noleggio bici cascine firenze,IT,google,noleggio bici firenze,3,florence,bike,transactional-rental,
+noleggio bici colle val d elsa,IT,google,noleggio bici val d'elsa,3,colle di val d'elsa,bike,transactional-rental,
+noleggio bici corsa firenze,IT,google,noleggio bici firenze,3,florence,road,transactional-rental,road
+noleggio bici firenze app,IT,google,noleggio bici firenze,3,florence,bike,transactional-rental,
+noleggio bici firenze centro,IT,google,noleggio bici firenze,3,florence,bike,transactional-rental,
+noleggio bici firenze ridemovi,IT,google,noleggio bici firenze,3,florence,bike,transactional-rental,
+noleggio bici firenze sud,IT,google,noleggio bici firenze,3,florence,bike,transactional-rental,
+noleggio bici san gimignano,IT,google+bing,noleggio bici san gimignano,3,san gimignano,bike,transactional-rental,
+siena velo noleggio bici a siena recensioni,IT,google,noleggio bici siena,3,siena,bike,transactional-rental,reviews
+e bike mieten bern,DE,bing,e-bike mieten san gimignano,2,none,bike,transactional-rental,
+e bike mieten florenz,DE,google,e-bike mieten florenz,2,florence,bike,transactional-rental,
+e bike mieten luzern,DE,bing,e-bike mieten san gimignano,2,none,bike,transactional-rental,
+e bike mieten schweiz,DE,bing,e-bike mieten san gimignano,2,none,bike,transactional-rental,
+e bike mieten solothurn,DE,bing,e-bike mieten san gimignano,2,none,bike,transactional-rental,
+e bike toskana mieten,DE,google,e-bike mieten toskana,2,tuscany,bike,transactional-rental,
+e bike verleih florenz,DE,google,e-bike verleih florenz,2,florence,bike,transactional-rental,
+e bike verleih fränkische schweiz,DE,bing,e-bike verleih san gimignano,2,none,bike,transactional-rental,
+e bike verleih meran,DE,bing,e-bike verleih san gimignano,2,none,bike,transactional-rental,
+e bike verleih oberammergau,DE,bing,e-bike verleih san gimignano,2,none,bike,transactional-rental,
+e bike verleih rosenheim,DE,bing,e-bike verleih san gimignano,2,none,bike,transactional-rental,
+e bike verleih san gimignano,DE,google,e-bike verleih san gimignano,2,san gimignano,bike,transactional-rental,
+e bike verleih sauerland,DE,bing,e-bike verleih san gimignano,2,none,bike,transactional-rental,
+e bike verleih schenna,DE,bing,e-bike verleih san gimignano,2,none,bike,transactional-rental,
+e bike verleih siena,DE,google,e-bike verleih siena,2,siena,bike,transactional-rental,
+e bike verleih toskana,DE,google,e-bike verleih toskana,2,tuscany,bike,transactional-rental,
+e-bike verleih in der nähe,DE,bing,e-bike verleih san gimignano,2,none,e-bike,transactional-rental,e-bike; near
+e-bike verleih in rome,DE,bing,e-bike verleih san gimignano,2,none,e-bike,transactional-rental,e-bike
+e-bike verleih san francisco,DE,bing,e-bike verleih san gimignano,2,none,e-bike,transactional-rental,e-bike
+e-bike vermietung in der nähe,DE,bing,e-bike verleih san gimignano,2,none,e-bike,other,e-bike; near
+fahrradverleih castellina in chianti,DE,google,fahrradverleih chianti,2,chianti,bike,transactional-rental,
+fahrradverleih greve in chianti,DE,google,fahrradverleih chianti,2,chianti,bike,transactional-rental,
+fahrradverleih san gimignano,DE,google,fahrradverleih san gimignano,2,san gimignano,bike,transactional-rental,
+florenz rom radtour,DE,bing,radtour florenz,2,florence,tour,tour/guided,
+geführte radtour toskana,DE,google,radtour toskana,2,tuscany,tour,tour/guided,guided
+mehrtägige radtour toskana komoot,DE,google,radtour toskana,2,tuscany,tour,tour/guided,
+radtour bologna florenz,DE,google,radtour florenz,2,florence,tour,tour/guided,
+radtour chianti,DE,google,radtour chianti,2,chianti,tour,tour/guided,
+radtour florenz,DE,google,radtour florenz,2,florence,tour,tour/guided,
+radtour florenz rom,DE,google,radtour florenz,2,florence,tour,tour/guided,
+radtour fränkische toskana,DE,google,radtour toskana,2,tuscany,tour,tour/guided,
+radtour greve in chianti,DE,google,radtour chianti,2,chianti,tour,tour/guided,
+radtour italien toskana,DE,google,radtour toskana,2,tuscany,tour,tour/guided,
+radtour münchen florenz,DE,google,radtour florenz,2,florence,tour,tour/guided,near
+radtour pisa florenz,DE,google,radtour florenz,2,florence,tour,tour/guided,
+radtour rund um siena,DE,google,radtour siena,2,siena,tour,tour/guided,
+radtour san gimignano,DE,google,radtour san gimignano,2,san gimignano,tour,tour/guided,
+radtour siena,DE,google,radtour siena,2,siena,tour,tour/guided,
+radtour toskana,DE,google,radtour toskana,2,tuscany,tour,tour/guided,
+radtour toskana komoot,DE,google,radtour toskana,2,tuscany,tour,tour/guided,
+radtour toskana küste,DE,google,radtour toskana,2,tuscany,tour,tour/guided,
+radtour toskana mountainbike,DE,google,radtour toskana,2,tuscany,mtb,tour/guided,
+radtour venedig florenz,DE,google,radtour florenz,2,florence,tour,tour/guided,
+radtour volterra san gimignano,DE,google,radtour san gimignano,2,san gimignano,tour,tour/guided,
+radtouren toskana,DE,bing,radtour toskana,2,tuscany,tour,tour/guided,
+rennrad mieten florenz,DE,google,rennrad mieten florenz,2,florence,road,transactional-rental,road
+rennrad mieten toskana,DE,google,rennrad mieten toskana,2,tuscany,road,transactional-rental,road
+rent ebike vicino a me,DE,bing,e-bike mieten san gimignano,2,none,e-bike,transactional-rental,e-bike; near
+san gimignano mit kindern,DE,bing,rennrad mieten san gimignano,2,san gimignano,other,other,family/kids
+siena rennrad mieten,DE,google,rennrad mieten siena,2,siena,road,transactional-rental,road
+aparcar en san gimignano,EN,bing,rent a bike san gimignano,2,san gimignano,other,other,
+are converse good for cycling,EN,google,cycling chianti,2,none,bike,other,
+backroads tuscany bike tour,EN,bing,bike tour tuscany,2,tuscany,tour,tour/guided,
+backroads tuscany by the sea bike tour,EN,bing,bike tour tuscany,2,tuscany,tour,tour/guided,
+best bike rental florence,EN,google,bike rental florence,2,florence,bike,transactional-rental,best
+best wine tour san gimignano,EN,bing,bike tour san gimignano,2,san gimignano,tour,tour/guided,wine; best
+bici gravel usate firenze,EN,bing,gravel bike rental chianti,2,florence,used,other,gravel
+bicycle rentals in lucca italy,EN,bing,road bike rental chianti,2,none,bike,transactional-rental,
+bicycle tour florence,EN,google,bike tour florence,2,florence,tour,tour/guided,
+bicycle tours tuscany italy,EN,google,bike tour tuscany,2,tuscany,tour,tour/guided,
+bike hire chianti,EN,google,bike rental chianti,2,chianti,bike,transactional-rental,
+bike hire in florence,EN,google,bike rental florence,2,florence,bike,transactional-rental,
+bike hire siena,EN,google,bike rental siena,2,siena,bike,transactional-rental,
+bike hire tuscany,EN,google,bike rental tuscany,2,tuscany,bike,transactional-rental,
+bike rent chianti,EN,google,bike rental chianti,2,chianti,bike,transactional-rental,
+bike rent in ranchi,EN,bing,rent a bike chianti,2,none,bike,transactional-rental,
+bike rental chania,EN,bing,bike rental chianti,2,none,bike,transactional-rental,
+bike rental chiang mai,EN,bing,bike rental chianti,2,none,bike,transactional-rental,
+bike rental chianti,EN,google,bike rental chianti,2,chianti,bike,transactional-rental,
+bike rental firenze,EN,google,bike rental florence,2,florence,bike,transactional-rental,
+bike rental lucca italy,EN,bing,road bike rental chianti,2,none,bike,transactional-rental,
+bike rental near siena italy,EN,google,bike rental siena,2,siena,bike,transactional-rental,near
+bike rental rates in manali,EN,google,bike rental volterra,2,none,bike,transactional-rental,
+bike rental south australia,EN,bing,road bike rental volterra,2,none,bike,transactional-rental,
+bike rental toscana,EN,google,bike rental tuscany,2,tuscany,bike,transactional-rental,
+bike rental volterra,EN,google,bike rental volterra,2,volterra,bike,transactional-rental,
+bike rentals in cortona italy,EN,bing,road bike rental chianti,2,none,bike,transactional-rental,
+bike rentals in monterey ca,EN,bing,road bike rental monteriggioni,2,none,bike,transactional-rental,
+bike rentals in venice,EN,google,bike rental volterra,2,none,bike,transactional-rental,
+bike rentals in victoria british columbia,EN,bing,road bike rental volterra,2,none,bike,transactional-rental,
+bike ride florence,EN,google,bike tour florence,2,florence,bike,other,
+bike ride san gimignano,EN,google,bike tour san gimignano,2,san gimignano,bike,other,
+bike ride siena,EN,google,bike tour siena,2,siena,bike,other,
+bike ride tuscany,EN,google,bike tour tuscany,2,tuscany,bike,other,
+bike san gimignano,EN,google,cycling san gimignano,2,san gimignano,bike,other,
+bike tour chianti,EN,google,bike tour chianti,2,chianti,tour,tour/guided,
+bike tour florence tuscany,EN,google,bike tour florence,2,florence,tour,tour/guided,
+bike tour florence with kids,EN,google,bike tour florence,2,florence,tour,tour/guided,family/kids
+bike tour greve in chianti,EN,google,bike tour chianti,2,chianti,tour,tour/guided,
+bike tour san gimignano,EN,google,bike tour san gimignano,2,san gimignano,tour,tour/guided,
+bike tour siena,EN,google,bike tour siena,2,siena,tour,tour/guided,
+bike tour siena italy,EN,google,bike tour siena,2,siena,tour,tour/guided,
+bike tour sienna,EN,google,bike tour siena,2,siena,tour,tour/guided,
+bike tour tuscany from florence,EN,google,bike tour tuscany,2,florence,tour,tour/guided,
+bike tour tuscany italy,EN,google,bike tour tuscany,2,tuscany,tour,tour/guided,
+bike tour tuscany wine,EN,google,bike tour tuscany,2,tuscany,tour,tour/guided,wine
+bike tours siena italy,EN,bing,bike tour siena,2,siena,tour,tour/guided,
+bike tours tuscany self guided,EN,google,bike tour tuscany,2,tuscany,tour,tour/guided,guided
+bike trip florence,EN,google,bike tour florence,2,florence,bike,other,
+bike trips tuscany italy,EN,google,bike tour tuscany,2,tuscany,bike,other,
+bike wine tour chianti,EN,google,bike tour chianti,2,chianti,tour,tour/guided,wine
+bike wine tour tuscany,EN,bing,bike tour tuscany,2,tuscany,tour,tour/guided,wine
+budget car rental siena italy,EN,bing,road bike rental siena,2,siena,other,transactional-rental,
+can you get a train from florence to san gimignano,EN,google,cycling san gimignano,2,san gimignano,other,other,
+can you rent a bike in florence,EN,google,rent a bike florence,2,florence,bike,transactional-rental,
+can you rent a car in siena,EN,bing,rent a bike siena,2,siena,other,transactional-rental,
+can you rent a vespa in rome,EN,google,vespa rental volterra,2,none,vespa,transactional-rental,
+can you rent bikes in paris,EN,google,bike rental volterra,2,none,bike,transactional-rental,
+car hire in siena italy,EN,bing,rent a bike siena,2,siena,other,transactional-rental,
+car rental chianti,EN,google,vespa rental chianti,2,chianti,other,transactional-rental,
+car rental chianti italy,EN,google,vespa rental chianti,2,chianti,other,transactional-rental,
+car rental san gimignano,EN,google,vespa rental san gimignano,2,san gimignano,other,transactional-rental,
+car rental san gimignano tuscany,EN,google,vespa rental san gimignano,2,san gimignano,other,transactional-rental,
+car rental tuscany,EN,google,vespa rental tuscany,2,tuscany,other,transactional-rental,
+car rental tuscany airport,EN,google,vespa rental tuscany,2,tuscany,other,transactional-rental,
+car rental tuscany italy,EN,google,vespa rental tuscany,2,tuscany,other,transactional-rental,
+car rental tuscany reddit,EN,google,vespa rental tuscany,2,tuscany,other,transactional-rental,
+car rental volterra,EN,google,vespa rental volterra,2,volterra,other,transactional-rental,
+car rental volterra italy,EN,google,vespa rental volterra,2,volterra,other,transactional-rental,
+car rentals siena italy,EN,bing,rent a bike siena,2,siena,other,transactional-rental,
+centromoto by chianti moto & bike,EN,bing,road bike rental chianti,2,chianti,bike,other,
+cheap siena car rentals,EN,bing,road bike rental siena,2,siena,other,transactional-rental,
+chianti bike tour,EN,bing,bike tour chianti,2,chianti,tour,tour/guided,
+chianti bike tour from florence,EN,google,bike tour chianti,2,chianti,tour,tour/guided,
+chianti cycling jersey,EN,google,cycling chianti,2,chianti,bike,other,
+chianti cycling routes,EN,google,cycling chianti,2,chianti,bike,info-route,routes/itineraries
+chianti cycling tour,EN,google,cycling chianti,2,chianti,tour,tour/guided,
+citi bike rental cost,EN,google,rent a bike volterra,2,none,bike,price,price
+cycle florence to pisa,EN,google,cycling florence,2,florence,bike,other,
+cycle rental florence,EN,google,bike rental florence,2,florence,bike,transactional-rental,
+cycle siena to rome,EN,google,cycling siena,2,siena,bike,other,
+cycle tuscany intrepid,EN,google,cycling tuscany,2,tuscany,bike,other,
+cycling around florence italy,EN,bing,cycling florence,2,florence,bike,other,
+cycling around san gimignano,EN,google,cycling san gimignano,2,san gimignano,bike,other,
+cycling around siena,EN,google,cycling siena,2,siena,bike,other,
+cycling chiang mai,EN,bing,cycling chianti,2,none,bike,other,
+cycling chianti,EN,google,cycling chianti,2,chianti,bike,other,
+cycling examples,EN,google,cycling volterra,2,none,bike,other,
+cycling explained,EN,google,cycling volterra,2,none,bike,other,
+cycling florence,EN,google,cycling florence,2,florence,bike,other,
+cycling florence italy,EN,google,cycling florence,2,florence,bike,other,
+cycling florence sc,EN,google,cycling florence,2,florence,bike,other,
+cycling florence to rome,EN,google,cycling florence,2,florence,bike,other,
+cycling for 2 hours,EN,google,cycling volterra,2,none,bike,other,
+cycling france self guided,EN,bing,cycling florence,2,none,tour,tour/guided,guided
+cycling greve in chianti,EN,google,cycling chianti,2,chianti,bike,other,
+cycling holiday tuscany,EN,bing,cycling tuscany,2,tuscany,bike,other,
+cycling in chianti italy,EN,google,cycling chianti,2,chianti,bike,other,
+cycling in tuscany self guided,EN,bing,cycling tuscany,2,tuscany,tour,tour/guided,guided
+cycling rate,EN,google,cycling volterra,2,none,bike,other,
+cycling san gimignano,EN,google,cycling san gimignano,2,san gimignano,bike,other,
+cycling siena,EN,google,cycling siena,2,siena,bike,other,
+cycling siena italy,EN,google,cycling siena,2,siena,bike,other,
+cycling sierra nevada,EN,bing,cycling siena,2,none,bike,other,
+cycling sierra nevada spain,EN,bing,cycling siena,2,none,bike,other,
+cycling sina instagram,EN,bing,cycling siena,2,none,bike,other,
+cycling sina maloum,EN,bing,cycling siena,2,none,bike,other,
+cycling sina only fans,EN,bing,cycling siena,2,none,bike,other,
+cycling sina reddit,EN,bing,cycling siena,2,none,bike,other,
+cycling sina video,EN,bing,cycling siena,2,none,bike,other,
+cycling tour siena,EN,google,bike tour siena,2,siena,tour,tour/guided,
+cycling tuscany italy,EN,google,cycling tuscany,2,tuscany,bike,other,
+cycling tuscany routes,EN,google,cycling tuscany,2,tuscany,bike,info-route,routes/itineraries
+cycling tuscany self guided,EN,google,cycling tuscany,2,tuscany,tour,tour/guided,guided
+cycling tuscany trail,EN,google,cycling tuscany,2,tuscany,bike,other,
+cycling volterra,EN,google,cycling volterra,2,volterra,bike,other,
+day trips from volterra,EN,bing,road bike rental volterra,2,volterra,other,other,
+dirt bike rental florence oregon,EN,google,bike rental florence,2,florence,bike,transactional-rental,
+dirt bike rentals near toronto,EN,bing,road bike rental volterra,2,none,bike,transactional-rental,near
+does san gimignano have a train station,EN,google,cycling san gimignano,2,san gimignano,other,other,
+e bike hire in florence,EN,google,electric bike rental florence,2,florence,bike,transactional-rental,
+e bike hire san francisco,EN,bing,e-bike rental san gimignano,2,none,bike,transactional-rental,
+e bike rental near me,EN,bing,e-bike rental san gimignano,2,none,bike,transactional-rental,near
+e bike rental pacific beach,EN,bing,e-bike rental san gimignano,2,none,bike,transactional-rental,
+e bike rental san francisco,EN,bing,e-bike rental san gimignano,2,none,bike,transactional-rental,
+e bike rental scottsdale az,EN,bing,e-bike rental san gimignano,2,none,bike,transactional-rental,
+e bike rentals in monterey ca,EN,bing,electric bike rental monteriggioni,2,none,bike,transactional-rental,
+e bike rentals scottsdale,EN,bing,e-bike rental san gimignano,2,none,bike,transactional-rental,
+e bike tour chianti,EN,google,bike tour chianti,2,chianti,tour,tour/guided,
+e bike tour florence,EN,google,bike tour florence,2,florence,tour,tour/guided,
+e bike tour san gimignano,EN,google,bike tour san gimignano,2,san gimignano,tour,tour/guided,
+e bike tour siena,EN,google,bike tour siena,2,siena,tour,tour/guided,
+e bike tour siena italy,EN,google,bike tour siena,2,siena,tour,tour/guided,
+e bike tours in tuscany,EN,bing,electric bike rental tuscany,2,tuscany,tour,tour/guided,
+e-bike rental,EN,bing,e-bike rental san gimignano,2,none,e-bike,transactional-rental,e-bike
+ebike rental florence italy,EN,bing,e-bike rental florence,2,florence,e-bike,transactional-rental,e-bike
+ebike rental monterey ca,EN,bing,electric bike rental monteriggioni,2,none,e-bike,transactional-rental,e-bike
+ebike rental phoenix az,EN,bing,e-bike rental san gimignano,2,none,e-bike,transactional-rental,e-bike
+ebike rental siena italy,EN,bing,e-bike rental siena,2,siena,e-bike,transactional-rental,e-bike
+electric bicycle for rent near me,EN,bing,electric bike rental siena,2,none,e-bike,transactional-rental,e-bike; near
+electric bicycle rental near me availability,EN,bing,electric bike rental chianti,2,none,e-bike,transactional-rental,e-bike; near
+electric bike for rental near me,EN,google,electric bike rental chianti,2,none,e-bike,transactional-rental,e-bike; near
+electric bike hire torremolinos,EN,bing,electric bike rental san gimignano,2,none,e-bike,transactional-rental,e-bike
+electric bike rental los angeles,EN,bing,electric bike rental monteriggioni,2,none,e-bike,transactional-rental,e-bike
+electric bike rental monterey,EN,bing,electric bike rental monteriggioni,2,none,e-bike,transactional-rental,e-bike
+electric bike rental naples fl,EN,bing,electric bike rental florence,2,none,e-bike,transactional-rental,e-bike
+electric bike rental near sentosa island,EN,bing,electric bike rental san gimignano,2,none,e-bike,transactional-rental,e-bike; near
+electric bike rental nyc,EN,bing,electric bike rental tuscany,2,none,e-bike,transactional-rental,e-bike
+electric bike rental san diego,EN,bing,electric bike rental san gimignano,2,none,e-bike,transactional-rental,e-bike
+electric bike rental san francisco,EN,bing,electric bike rental san gimignano,2,none,e-bike,transactional-rental,e-bike
+electric bike rental san juan puerto rico,EN,bing,electric bike rental san gimignano,2,none,e-bike,transactional-rental,e-bike
+electric bike rental scottsdale,EN,bing,electric bike rental san gimignano,2,none,e-bike,transactional-rental,e-bike
+electric bike rental venice fl,EN,bing,electric bike rental florence,2,none,e-bike,transactional-rental,e-bike
+electric bike rentals in florida,EN,bing,electric bike rental florence,2,none,e-bike,transactional-rental,e-bike
+electric bike rentals in scottsdale az,EN,bing,electric bike rental san gimignano,2,none,e-bike,transactional-rental,e-bike
+electric bike rentals near me locations,EN,bing,electric bike rental volterra,2,none,e-bike,transactional-rental,e-bike; near
+electric bike rentals near me prices,EN,bing,electric bike rental volterra,2,none,e-bike,price,price; e-bike; near
+electric bike rentals near me reviews,EN,bing,electric bike rental monteriggioni,2,none,e-bike,transactional-rental,e-bike; near; reviews
+electric bike shop near me rental,EN,bing,electric bike rental san gimignano,2,none,shop/repair,shop/repair,e-bike; near
+electric bike where can you ride,EN,google,electric bike rental chianti,2,none,e-bike,other,e-bike
+electric gravel bikes near me,EN,bing,gravel bike rental volterra,2,none,gravel,other,e-bike; gravel; near
+electric mountain bike rentals,EN,bing,electric bike rental monteriggioni,2,none,mtb,transactional-rental,e-bike
+florence cycling club,EN,google,cycling florence,2,florence,bike,other,
+florence cycling routes,EN,google,cycling florence,2,florence,bike,info-route,routes/itineraries
+florence cycling shop,EN,google,cycling florence,2,florence,shop/repair,shop/repair,
+florence cycling tour,EN,google,cycling florence,2,florence,tour,tour/guided,
+florence electric bike tour,EN,bing,bike tour florence,2,florence,e-bike,tour/guided,e-bike
+florence italy guided bike tour,EN,bing,bike tour florence,2,florence,tour,tour/guided,guided
+florence private vespa rental locations,EN,bing,vespa rental florence,2,florence,vespa,transactional-rental,
+florence station rental vespa,EN,bing,vespa rental florence,2,florence,vespa,transactional-rental,
+florence to siena cycling,EN,google,cycling florence,2,siena,bike,other,
+gravel bike hire melbourne,EN,bing,gravel bike rental volterra,2,none,gravel,transactional-rental,gravel
+gravel bike mieten schweiz,EN,bing,gravel bike rental chianti,2,none,gravel,transactional-rental,gravel
+gravel bike near me,EN,bing,gravel bike rental volterra,2,none,gravel,other,gravel; near
+gravel bike rent siena,EN,google,gravel bike rental siena,2,siena,gravel,transactional-rental,gravel
+gravel bike rent tuscany,EN,google,gravel bike rental tuscany,2,tuscany,gravel,transactional-rental,gravel
+gravel bike rental firenze,EN,google,gravel bike rental florence,2,florence,gravel,transactional-rental,gravel
+gravel bike rides near me,EN,bing,gravel bike rental volterra,2,none,gravel,other,gravel; near
+gravel bike riding near me,EN,bing,gravel bike rental volterra,2,none,gravel,other,gravel; near
+gravel bike santa cruz,EN,bing,gravel bike rental san gimignano,2,none,gravel,other,gravel
+gravel biking san diego,EN,bing,gravel bike rental san gimignano,2,none,gravel,other,gravel
+gravel castello di monteriggioni,EN,bing,gravel bike rental monteriggioni,2,monteriggioni,gravel,other,gravel
+guided tours florence by bike,EN,bing,gravel bike rental florence,2,florence,tour,tour/guided,guided
+homes for sale in volterra italy,EN,bing,rent a bike volterra,2,volterra,other,other,
+houses to rent in italy for volterra,EN,bing,rent a bike volterra,2,volterra,other,transactional-rental,
+how much does it cost to rent a bike,EN,google,rent a bike volterra,2,none,bike,price,price
+how much does it cost to rent a bike for a day,EN,google,rent a bike volterra,2,none,bike,price,price
+how much time do you need in san gimignano,EN,google,cycling san gimignano,2,san gimignano,other,other,
+how to rent a bike in paris,EN,google,bike rental volterra,2,none,bike,transactional-rental,
+is chianti good for cooking,EN,google,cycling chianti,2,chianti,other,other,
+is chianti good for you,EN,google,cycling chianti,2,chianti,other,other,
+italy positano rental bikes,EN,bing,road bike rental chianti,2,none,bike,transactional-rental,
+long term bike rental florence,EN,google,bike rental florence,2,florence,bike,transactional-rental,
+monteriggioni bike rental,EN,google,bike rental monteriggioni,2,monteriggioni,bike,transactional-rental,
+moped rental florence,EN,google,vespa rental florence,2,florence,other,transactional-rental,
+moped rental florence italy,EN,google,vespa rental florence,2,florence,other,transactional-rental,
+moped rental siena,EN,google,vespa rental siena,2,siena,other,transactional-rental,
+moped rental tuscany,EN,google,vespa rental tuscany,2,tuscany,other,transactional-rental,
+noleggio bici cammino santiago,EN,bing,rent a bike san gimignano,2,none,bike,transactional-rental,
+real estate volterra italy,EN,bing,rent a bike volterra,2,volterra,other,other,
+rent a bicycle florence,EN,google,rent a bike florence,2,florence,bike,transactional-rental,
+rent a bike castellina in chianti,EN,google,rent a bike chianti,2,chianti,bike,transactional-rental,
+rent a bike chianti,EN,google,rent a bike chianti,2,chianti,bike,transactional-rental,
+rent a bike florence italy,EN,google,rent a bike florence,2,florence,bike,transactional-rental,
+rent a bike in rome,EN,bing,rent a bike tuscany,2,none,bike,transactional-rental,
+rent a bike in siena italy,EN,google,rent a bike siena,2,siena,bike,transactional-rental,
+rent a bike san gimignano,EN,google,rent a bike san gimignano,2,san gimignano,bike,transactional-rental,
+rent a bike siena,EN,google,rent a bike siena,2,siena,bike,transactional-rental,
+rent a bike tuscany,EN,google,rent a bike tuscany,2,tuscany,bike,transactional-rental,
+rent a bike volterra,EN,google,rent a bike volterra,2,volterra,bike,transactional-rental,
+rent a car in siena cheap,EN,bing,rent a bike siena,2,siena,other,transactional-rental,
+rent a car in siena italy cheap,EN,bing,rent a bike siena,2,siena,other,transactional-rental,
+rent a car in siena italy online,EN,bing,rent a bike siena,2,siena,other,transactional-rental,
+rent a car in siena with driver,EN,bing,road bike rental siena,2,siena,other,transactional-rental,
+rent a center e bike,EN,bing,electric bike rental chianti,2,none,bike,transactional-rental,
+rent a motorbike tuscany,EN,google,rent a bike tuscany,2,tuscany,other,transactional-rental,
+rent a motorcycle siena,EN,google,rent a bike siena,2,siena,other,transactional-rental,
+rent a mountain bike,EN,bing,rent a bike monteriggioni,2,none,mtb,transactional-rental,
+rent a scooter florence,EN,google,rent a bike florence,2,florence,vespa,transactional-rental,
+rent a scooter florence italy,EN,google,rent a bike florence,2,florence,vespa,transactional-rental,
+rent a scooter san gimignano,EN,google,rent a bike san gimignano,2,san gimignano,vespa,transactional-rental,
+rent a scooter siena,EN,google,rent a bike siena,2,siena,vespa,transactional-rental,
+rent a scooter tuscany,EN,google,rent a bike tuscany,2,tuscany,vespa,transactional-rental,
+rent a tour bike,EN,bing,rent a bike volterra,2,none,tour,tour/guided,
+rent a vespa in italy,EN,bing,vespa rental san gimignano,2,none,vespa,transactional-rental,
+rent an electric bike near me,EN,bing,electric bike rental chianti,2,none,e-bike,transactional-rental,e-bike; near
+rent bicycle florence italy,EN,google,rent a bike florence,2,florence,bike,transactional-rental,
+rent bicycle siena,EN,google,rent a bike siena,2,siena,bike,transactional-rental,
+rent e bike florence,EN,google,rent a bike florence,2,florence,bike,transactional-rental,
+rent e bike siena,EN,google,rent a bike siena,2,siena,bike,transactional-rental,
+rent e bike tuscany,EN,google,rent a bike tuscany,2,tuscany,bike,transactional-rental,
+rent electric bike florence,EN,google,rent a bike florence,2,florence,e-bike,transactional-rental,e-bike
+rent electric bike melbourne,EN,bing,electric bike rental volterra,2,none,e-bike,transactional-rental,e-bike
+rent gravel bike siena,EN,google,rent a bike siena,2,siena,gravel,transactional-rental,gravel
+rent gravel bike tuscany,EN,google,rent a bike tuscany,2,tuscany,gravel,transactional-rental,gravel
+rent motorcycle florence,EN,google,rent a bike florence,2,florence,other,transactional-rental,
+rent road bike tuscany,EN,google,rent a bike tuscany,2,tuscany,road,transactional-rental,road
+rental bike tuscany,EN,google,rent a bike tuscany,2,tuscany,bike,transactional-rental,
+rental electric bikes near me,EN,bing,electric bike rental siena,2,none,e-bike,transactional-rental,e-bike; near
+riding a vespa in italy,EN,google,vespa rental volterra,2,none,vespa,other,
+road bike rental firenze,EN,google,road bike rental florence,2,florence,road,transactional-rental,road
+road bike rental mallorca,EN,bing,road bike rental volterra,2,none,road,transactional-rental,road
+san diego ebike rental,EN,bing,e-bike rental san gimignano,2,none,e-bike,transactional-rental,e-bike
+san diego electric bike rentals,EN,bing,electric bike rental san gimignano,2,none,e-bike,transactional-rental,e-bike
+san diego road bike rental,EN,bing,road bike rental san gimignano,2,none,road,transactional-rental,road
+san gimignano cycling jersey,EN,google,cycling san gimignano,2,san gimignano,bike,other,
+san gimignano day trip,EN,bing,bike tour san gimignano,2,san gimignano,other,other,
+san gimignano in camper,EN,bing,rent a bike san gimignano,2,san gimignano,other,other,
+san gimignano tour from florence,EN,bing,bike tour san gimignano,2,san gimignano,tour,tour/guided,
+san gimignano wine tours,EN,bing,bike tour san gimignano,2,san gimignano,tour,tour/guided,wine
+san gimignano winery tour,EN,bing,bike tour san gimignano,2,san gimignano,tour,tour/guided,wine
+scooter rental chianti,EN,google,vespa rental chianti,2,chianti,vespa,transactional-rental,
+scooter rental florence,EN,google,vespa rental florence,2,florence,vespa,transactional-rental,
+scooter rental florence italy,EN,google,vespa rental florence,2,florence,vespa,transactional-rental,
+scooter rental florence ky,EN,google,vespa rental florence,2,florence,vespa,transactional-rental,
+scooter rental florence reddit,EN,google,vespa rental florence,2,florence,vespa,transactional-rental,
+scooter rental san gimignano,EN,google,vespa rental san gimignano,2,san gimignano,vespa,transactional-rental,
+scooter rental siena,EN,google,vespa rental siena,2,siena,vespa,transactional-rental,
+scooter rental siena italy,EN,google,vespa rental siena,2,siena,vespa,transactional-rental,
+scooter rental tuscany,EN,google,vespa rental tuscany,2,tuscany,vespa,transactional-rental,
+scooter rental tuscany italy,EN,google,vespa rental tuscany,2,tuscany,vespa,transactional-rental,
+scooter rental volterra,EN,google,vespa rental volterra,2,volterra,vespa,transactional-rental,
+siena and san gimignano tour,EN,bing,bike tour san gimignano,2,san gimignano,tour,tour/guided,
+siena bike tour,EN,bing,bike tour siena,2,siena,tour,tour/guided,
+siena cycling club,EN,google,cycling siena,2,siena,bike,other,
+siena cycling jersey,EN,google,cycling siena,2,siena,bike,other,
+siena cycling race,EN,google,cycling siena,2,siena,bike,other,
+siena cycling routes,EN,google,cycling siena,2,siena,bike,info-route,routes/itineraries
+siena cycling shop,EN,google,cycling siena,2,siena,shop/repair,shop/repair,
+siena cycling tours,EN,google,cycling siena,2,siena,tour,tour/guided,
+things to do near volterra,EN,bing,rent a bike volterra,2,volterra,other,other,near
+tour siena san gimignano chianti,EN,bing,bike tour san gimignano,2,san gimignano,tour,tour/guided,
+tours from siena italy to san gimignano,EN,bing,bike tour san gimignano,2,san gimignano,tour,tour/guided,
+transportation from florence to siena by bike,EN,bing,road bike rental siena,2,siena,bike,other,
+tuscany and pisa bike tour from florence,EN,bing,bike tour tuscany,2,florence,tour,tour/guided,
+tuscany cycling house,EN,google,cycling tuscany,2,tuscany,bike,other,
+tuscany cycling map,EN,google,cycling tuscany,2,tuscany,bike,other,
+tuscany cycling routes,EN,bing,cycling tuscany,2,tuscany,bike,info-route,routes/itineraries
+tuscany gravel bike race,EN,bing,gravel bike rental tuscany,2,tuscany,gravel,other,gravel
+types of chianti,EN,google,cycling chianti,2,chianti,other,other,
+vespa hire tuscany,EN,google,vespa rental tuscany,2,tuscany,vespa,transactional-rental,
+vespa near me rent,EN,bing,vespa rental san gimignano,2,none,vespa,transactional-rental,near
+vespa rent chianti,EN,google,vespa rental chianti,2,chianti,vespa,transactional-rental,
+vespa rent siena,EN,google,vespa rental siena,2,siena,vespa,transactional-rental,
+vespa rent volterra,EN,google,vespa rental volterra,2,volterra,vespa,transactional-rental,
+vespa rental castellina in chianti,EN,google,vespa rental chianti,2,chianti,vespa,transactional-rental,
+vespa rental chianti,EN,google,vespa rental chianti,2,chianti,vespa,transactional-rental,
+vespa rental florence airport,EN,google,vespa rental florence,2,florence,vespa,transactional-rental,
+vespa rental greve in chianti,EN,google,vespa rental chianti,2,chianti,vespa,transactional-rental,
+vespa rental in florence,EN,bing,vespa rental san gimignano,2,florence,vespa,transactional-rental,
+vespa rental near me,EN,bing,vespa rental san gimignano,2,none,vespa,transactional-rental,near
+vespa rental radda in chianti,EN,google,vespa rental chianti,2,chianti,vespa,transactional-rental,
+vespa rental san diego,EN,bing,vespa rental san gimignano,2,none,vespa,transactional-rental,
+vespa rental san gimignano,EN,google,vespa rental san gimignano,2,san gimignano,vespa,transactional-rental,
+vespa rental siena,EN,google,vespa rental siena,2,siena,vespa,transactional-rental,
+vespa rental tuscany best deals,EN,bing,vespa rental tuscany,2,tuscany,vespa,transactional-rental,best
+vespa rental tuscany italy,EN,google,vespa rental tuscany,2,tuscany,vespa,transactional-rental,
+vespa rental tuscany lucca,EN,bing,vespa rental tuscany,2,tuscany,vespa,transactional-rental,
+vespa rental tuscany pisa,EN,bing,vespa rental tuscany,2,tuscany,vespa,transactional-rental,
+vespa rental tuscany prices,EN,bing,vespa rental tuscany,2,tuscany,vespa,price,price
+vespa rental tuscany reviews,EN,bing,vespa rental tuscany,2,tuscany,vespa,transactional-rental,reviews
+vespa rental tuscany tours,EN,bing,vespa rental tuscany,2,tuscany,vespa,tour/guided,
+vespa rental volterra,EN,google,vespa rental volterra,2,volterra,vespa,transactional-rental,
+vespa rental volterra italy,EN,google,vespa rental volterra,2,volterra,vespa,transactional-rental,
+vespa rentals in italy,EN,bing,vespa rental san gimignano,2,none,vespa,transactional-rental,
+viator tours to siena and san gimignano,EN,bing,bike tour san gimignano,2,san gimignano,tour,tour/guided,
+victoria bc bike rentals,EN,bing,road bike rental volterra,2,none,bike,transactional-rental,
+volterra apartments for sale,EN,bing,rent a bike volterra,2,volterra,other,other,
+volterra bike rental,EN,bing,bike rental volterra,2,volterra,bike,transactional-rental,
+volterra bike tour,EN,google,bike tour volterra,2,volterra,tour,tour/guided,
+we like tuscany bike tour,EN,bing,bike tour tuscany,2,tuscany,tour,tour/guided,
+what is san gimignano famous for,EN,google,cycling san gimignano,2,san gimignano,other,other,
+which is the best time for cycling,EN,google,cycling volterra,2,none,bike,other,best
+carte itinéraire vélo route,FR,bing,vélo de route location chianti,2,none,bike,info-route,routes/itineraries
+circuit autour de florence,FR,bing,vélo de route location florence,2,florence,tour,tour/guided,routes/itineraries
+circuit en toscane en voiture,FR,bing,vélo de route location toscane,2,tuscany,tour,tour/guided,routes/itineraries
+circuit toscane 10 jours,FR,bing,vélo de route location toscane,2,tuscany,tour,tour/guided,routes/itineraries
+circuit touristique en toscane,FR,bing,vélo de route location toscane,2,tuscany,tour,tour/guided,routes/itineraries
+come arrivare a san gimignano,FR,bing,vélo de route location san gimignano,2,san gimignano,other,other,
+come raggiungere san gimignano,FR,bing,vélo de route location san gimignano,2,san gimignano,other,other,
+dove si trova san gimignano,FR,bing,location vélo san gimignano,2,san gimignano,other,other,
+google maps san gimignano,FR,bing,vélo de route location san gimignano,2,san gimignano,other,other,
+itinéraire vélo route france,FR,bing,vélo de route location florence,2,none,bike,info-route,routes/itineraries
+la seine à vélo,FR,bing,vélo de route location sienne,2,none,bike,other,
+la seine à vélo carte,FR,bing,vélo de route location sienne,2,none,bike,other,
+la seine à vélo parcours,FR,bing,vélo de route location sienne,2,none,bike,info-route,routes/itineraries
+location de vacances italie toscane,FR,bing,vélo de route location toscane,2,tuscany,other,transactional-rental,
+location de vélo paris,FR,bing,vélo de route location chianti,2,none,bike,transactional-rental,
+location de vélo seignosse,FR,bing,vélo de route location sienne,2,none,bike,transactional-rental,
+location velo castellina in chianti,FR,google,location vélo chianti,2,chianti,bike,transactional-rental,
+location velo chianti,FR,google,location vélo chianti,2,chianti,bike,transactional-rental,
+location velo de route florence,FR,google,vélo de route location florence,2,florence,road,info-route,routes/itineraries
+location velo electrique saint etienne,FR,bing,location vélo électrique sienne,2,none,e-bike,transactional-rental,e-bike
+location velo firenze,FR,google,location vélo florence,2,florence,bike,transactional-rental,
+location velo gaiole in chianti,FR,google,location vélo chianti,2,chianti,bike,transactional-rental,
+location velo greve in chianti,FR,google,location vélo chianti,2,chianti,bike,transactional-rental,
+location velo route florence,FR,google,location vélo florence,2,florence,bike,info-route,routes/itineraries
+location velo san gimignano,FR,google,location vélo san gimignano,2,san gimignano,bike,transactional-rental,
+location velo sienne,FR,google,location vélo sienne,2,siena,bike,transactional-rental,
+location velo toscane,FR,google,location vélo toscane,2,tuscany,bike,transactional-rental,
+location voiture sienne italie,FR,bing,vélo de route location sienne,2,siena,other,transactional-rental,
+location vélo de route,FR,bing,vélo de route location sienne,2,none,road,info-route,road; routes/itineraries
+location vélo de route paris,FR,bing,vélo de route location chianti,2,none,road,info-route,road; routes/itineraries
+location vélo la ciotat,FR,bing,vélo de route location chianti,2,none,bike,transactional-rental,
+location vélo la seyne sur mer,FR,bing,vélo de route location sienne,2,none,bike,transactional-rental,
+location vélo saint étienne,FR,bing,vélo de route location sienne,2,none,bike,transactional-rental,
+location vélo seine saint denis,FR,bing,location vélo sienne,2,none,bike,transactional-rental,
+location vélo valence espagne,FR,bing,vélo de route location florence,2,none,bike,transactional-rental,
+location vélo vienne 38,FR,bing,location vélo sienne,2,none,bike,transactional-rental,
+location vélo vienne autriche,FR,bing,location vélo sienne,2,none,bike,transactional-rental,
+location vélo à tours,FR,bing,vélo de route location florence,2,none,tour,tour/guided,
+location vélo électrique autour de moi,FR,bing,location vélo électrique sienne,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique caen,FR,bing,location vélo électrique sienne,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique cannes,FR,bing,location vélo électrique toscane,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique entre particuliers,FR,bing,location vélo électrique chianti,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique genève,FR,bing,location vélo électrique san gimignano,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique granville,FR,bing,location vélo électrique san gimignano,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique grenoble,FR,bing,location vélo électrique san gimignano,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique les saintes,FR,bing,location vélo électrique sienne,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique longue durée,FR,bing,location vélo électrique chianti,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique namur,FR,bing,location vélo électrique san gimignano,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique paris mois,FR,bing,location vélo électrique chianti,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique paris à la journée,FR,bing,location vélo électrique chianti,2,none,e-bike,transactional-rental,e-bike; daily
+location vélo électrique san francisco,FR,bing,location vélo électrique san gimignano,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique suisse,FR,bing,location vélo électrique san gimignano,2,none,e-bike,transactional-rental,e-bike
+location vélo électrique tours,FR,bing,location vélo électrique toscane,2,none,e-bike,tour/guided,e-bike
+location vélo électrique ville de nantes,FR,bing,location vélo électrique san gimignano,2,none,e-bike,transactional-rental,e-bike
+mooiste routes rond siena,FR,bing,vélo de route location sienne,2,siena,other,info-route,routes/itineraries
+parcours vélo route france,FR,bing,vélo de route location florence,2,none,bike,info-route,routes/itineraries
+promenade à vélo florence levardon,FR,bing,vélo de route location florence,2,florence,bike,other,
+road trip en van en toscane,FR,bing,vélo de route location toscane,2,tuscany,road,other,road
+road trip toscane 10 jours,FR,bing,vélo de route location toscane,2,tuscany,road,other,road
+road trip toscane 5 jours,FR,bing,vélo de route location toscane,2,tuscany,road,other,road
+route des vins toscane carte,FR,bing,vélo de route location toscane,2,tuscany,other,info-route,routes/itineraries
+site vélo de route,FR,bing,vélo de route location chianti,2,none,road,info-route,road; routes/itineraries
+séjour en toscane circuit,FR,bing,vélo de route location toscane,2,tuscany,tour,tour/guided,routes/itineraries
+tour de toscane cyclisme,FR,bing,vélo de route location toscane,2,tuscany,tour,tour/guided,
+vacances à vélo france,FR,bing,vélo de route location florence,2,none,bike,other,
+velo route et chemin,FR,bing,vélo de route location chianti,2,none,bike,info-route,routes/itineraries
+vélo de route mégamo,FR,bing,vélo de route location san gimignano,2,none,road,info-route,road; routes/itineraries
+vélo route en france,FR,bing,vélo de route location florence,2,none,bike,info-route,routes/itineraries
+10 cose da vedere a volterra,IT,bing,tour in bici volterra,2,volterra,other,other,
+agriturismo con noleggio e bike toscana,IT,google,noleggio e-bike toscana,2,tuscany,bike,transactional-rental,
+annunci biciclette a noleggio,IT,bing,noleggio bici da corsa siena,2,none,bike,transactional-rental,
+app per noleggio bici firenze,IT,google,noleggio bici firenze,2,florence,bike,transactional-rental,
+area sosta camper san gimignano,IT,bing,noleggio vespa san gimignano,2,san gimignano,other,other,
+bando bici elettriche firenze,IT,google,bici elettriche firenze,2,florence,e-bike,other,e-bike
+best wine tour san gimignano,IT,bing,tour in bici san gimignano,2,san gimignano,tour,tour/guided,wine; best
+bici corsa usate toscana,IT,google,bici usate toscana,2,tuscany,used,other,road
+bici da corsa elettriche prezzi e modelli,IT,bing,bici elettriche val d'elsa,2,none,road,price,price; e-bike; road
+bici donna usate firenze,IT,google,bici usate firenze,2,florence,used,other,
+bici elettrica a milano,IT,bing,bici elettriche san gimignano,2,none,e-bike,other,e-bike
+bici elettrica con seggiolino,IT,bing,bici elettriche san gimignano,2,none,e-bike,other,e-bike
+bici elettrica firenze app,IT,bing,bici elettriche firenze,2,florence,e-bike,other,e-bike
+bici elettrica san marino,IT,bing,bici elettriche san gimignano,2,none,e-bike,other,e-bike
+bici elettriche a rate,IT,bing,bici elettriche val d'orcia,2,none,e-bike,other,e-bike
+bici elettriche con acceleratore,IT,bing,bici elettriche val d'elsa,2,none,e-bike,other,e-bike
+bici elettriche da montagna,IT,bing,bici elettriche val d'orcia,2,none,e-bike,other,e-bike
+bici elettriche firenze app,IT,google,bici elettriche firenze,2,florence,e-bike,other,e-bike
+bici elettriche firenze noleggio,IT,google,bici elettriche firenze,2,florence,e-bike,transactional-rental,e-bike
+bici elettriche in offerta,IT,bing,bici elettriche val d'orcia,2,none,e-bike,other,e-bike
+bici elettriche mountain bike,IT,bing,bici elettriche val d'elsa,2,none,mtb,other,e-bike
+bici elettriche prezzi e modelli,IT,bing,bici elettriche val d'elsa,2,none,e-bike,price,price; e-bike
+bici elettriche siena,IT,google,bici elettriche siena,2,siena,e-bike,other,e-bike
+bici elettriche toscana,IT,google,bici elettriche toscana,2,tuscany,e-bike,other,e-bike
+bici elettriche usate firenze,IT,google,bici elettriche firenze,2,florence,used,other,e-bike
+bici gravel usate toscana,IT,google,bici usate toscana,2,tuscany,used,other,gravel
+bici in val d orcia,IT,google,tour in bici val d'orcia,2,val d'orcia,bike,other,
+bici usate firenze carcere,IT,google,bici usate firenze,2,florence,used,other,
+bici usate firenze ebay,IT,google,bici usate firenze,2,florence,used,other,
+bici usate firenze facebook,IT,google,bici usate firenze,2,florence,used,other,
+bici usate firenze sud,IT,google,bici usate firenze,2,florence,used,other,
+bici usate firenze vendita,IT,bing,bici usate firenze,2,florence,used,other,
+bici usate milano e provincia,IT,bing,bici usate san gimignano,2,none,used,other,
+bici usate poggibonsi,IT,google,bici usate poggibonsi,2,poggibonsi,used,other,
+bici val d orcia,IT,google,negozio bici val d'orcia,2,val d'orcia,bike,other,
+biciclette elettriche con motore bosch,IT,bing,bici elettriche val d'elsa,2,none,e-bike,other,e-bike
+biciclette elettriche in offerta,IT,bing,bici elettriche val d'elsa,2,none,e-bike,other,e-bike
+biciclette elettriche italiane prezzi,IT,bing,bici elettriche val d'elsa,2,none,e-bike,price,price; e-bike
+biciclette elettriche prezzi e modelli,IT,bing,bici elettriche val d'elsa,2,none,e-bike,price,price; e-bike
+bologna firenze in bici,IT,bing,tour in bici firenze,2,florence,bike,other,
+bonus bici elettriche firenze,IT,google,bici elettriche firenze,2,florence,e-bike,other,e-bike
+bonus bici elettriche toscana,IT,google,bici elettriche toscana,2,tuscany,e-bike,other,e-bike
+campeggi in val d'orcia,IT,bing,noleggio vespa val d'orcia,2,val d'orcia,other,other,
+cartina della val d'orcia,IT,bing,bici usate val d'orcia,2,val d'orcia,other,other,
+chianti wine tour from florence,IT,bing,tour in bici chianti,2,chianti,tour,tour/guided,wine
+chianti wine tour italy,IT,bing,tour in bici chianti,2,chianti,tour,tour/guided,wine
+cisl colle di val d'elsa,IT,bing,bici elettriche colle di val d'elsa,2,colle di val d'elsa,other,other,
+colle di val d'elsa wanderung,IT,bing,tour in bici val d'elsa,2,colle di val d'elsa,other,other,
+colle val d'elsa cosa vedere,IT,bing,tour in bici colle di val d'elsa,2,colle di val d'elsa,other,other,
+colle val d'elsa terme,IT,bing,noleggio vespa colle di val d'elsa,2,colle di val d'elsa,other,other,
+comune di firenze bici,IT,bing,tour in bici firenze,2,florence,bike,other,
+comune di poggibonsi concorsi,IT,bing,tour in bici poggibonsi,2,poggibonsi,other,other,
+cosa fare a poggibonsi,IT,bing,tour in bici poggibonsi,2,poggibonsi,other,other,
+cosa fare in val d'orcia,IT,bing,tour in bici val d'orcia,2,val d'orcia,other,other,
+cosa vedere a poggibonsi,IT,bing,tour in bici poggibonsi,2,poggibonsi,other,other,
+cosa vedere a poggibonsi e dintorni,IT,bing,tour in bici poggibonsi,2,poggibonsi,other,other,
+cosa vedere vicino a poggibonsi,IT,bing,tour in bici poggibonsi,2,poggibonsi,other,other,near
+cosa visitare vicino volterra,IT,bing,tour in bici volterra,2,volterra,other,other,near
+costo noleggio bici firenze,IT,google,noleggio bici firenze,2,florence,bike,price,price
+crete senesi cosa sono,IT,bing,bici usate crete senesi,2,crete senesi,other,other,
+crete senesi tuscany italy,IT,bing,tour in bici crete senesi,2,crete senesi,other,other,
+da vedere a volterra,IT,bing,tour in bici volterra,2,volterra,other,other,
+day tours from siena,IT,bing,tour in bici siena,2,siena,tour,tour/guided,
+day trips from siena,IT,bing,tour in bici siena,2,siena,other,other,
+decathlon bici usate firenze,IT,google,bici usate firenze,2,florence,used,other,
+decathlon colle di val d'elsa,IT,bing,bici elettriche colle di val d'elsa,2,colle di val d'elsa,other,other,
+dov'è la val d'orcia,IT,bing,officina bici val d'orcia,2,val d'orcia,other,other,
+dove alloggiare in val d'orcia,IT,bing,bici usate val d'orcia,2,val d'orcia,other,other,
+dove si trova poggibonsi,IT,bing,tour in bici poggibonsi,2,poggibonsi,other,other,
+dove si trova volterra,IT,bing,tour in bici volterra,2,volterra,other,other,
+e bike usate ex noleggio toscana,IT,google,noleggio e-bike toscana,2,tuscany,used,other,
+florence by bike firenze,IT,bing,tour in bici firenze,2,florence,bike,other,
+florence siena tour by bike,IT,bing,tour in bici siena,2,siena,tour,tour/guided,
+free tour en siena,IT,bing,tour in bici siena,2,siena,tour,tour/guided,
+free tour siena italia,IT,bing,tour in bici siena,2,siena,tour,tour/guided,
+free walking tour siena,IT,bing,tour in bici siena,2,siena,tour,tour/guided,
+free walking tour siena italy,IT,bing,tour in bici siena,2,siena,tour,tour/guided,
+giro del chianti in moto,IT,bing,tour in bici chianti,2,chianti,other,other,
+giro del monte bianco in bici,IT,bing,tour in bici monteriggioni,2,none,bike,other,
+giro della toscana in bici,IT,bing,tour in bici toscana,2,tuscany,bike,other,
+giro in bici val d orcia,IT,google,tour in bici val d'orcia,2,val d'orcia,bike,other,
+gravel noleggio siena,IT,bing,noleggio gravel siena,2,siena,gravel,transactional-rental,gravel
+incentivi bici elettriche 2025 toscana,IT,google,bici elettriche toscana,2,tuscany,e-bike,other,e-bike
+incentivi bici elettriche 2026 toscana,IT,google,bici elettriche toscana,2,tuscany,e-bike,other,e-bike
+incentivi bici elettriche firenze,IT,google,bici elettriche firenze,2,florence,e-bike,other,e-bike
+incentivi bici elettriche toscana,IT,google,bici elettriche toscana,2,tuscany,e-bike,other,e-bike
+italian chianti classic tours,IT,bing,tour in bici chianti,2,chianti,tour,tour/guided,
+itinerari in bicicletta in italia,IT,bing,tour in bici chianti,2,none,tour,tour/guided,routes/itineraries
+les tours de san gimignano,IT,bing,tour in bici san gimignano,2,san gimignano,tour,tour/guided,
+marche di bici elettriche,IT,bing,bici elettriche val d'orcia,2,none,e-bike,other,e-bike
+mercatino bici usate firenze,IT,google,bici usate firenze,2,florence,used,other,
+mercatino bici usate toscana,IT,google,bici usate toscana,2,tuscany,used,other,
+migliori tour in bici in europa,IT,bing,tour in bici toscana,2,none,tour,price,price
+milano genova in bici,IT,bing,bici usate san gimignano,2,none,bike,other,
+milano viale san gimignano,IT,bing,bici usate san gimignano,2,san gimignano,other,other,
+moto a noleggio firenze,IT,bing,noleggio bici da corsa firenze,2,florence,other,transactional-rental,
+negozio abbigliamento bici firenze,IT,google,negozio bici firenze,2,florence,shop/repair,shop/repair,
+negozio bici bianchi firenze,IT,google,negozio bici firenze,2,florence,shop/repair,shop/repair,
+negozio bici colle val d elsa,IT,google,negozio bici val d'elsa,2,colle di val d'elsa,shop/repair,shop/repair,
+negozio bici da corsa toscana,IT,google,negozio bici toscana,2,tuscany,shop/repair,shop/repair,road
+negozio bici elettriche milano,IT,bing,bici elettriche san gimignano,2,none,shop/repair,shop/repair,e-bike
+negozio bici elettriche roma,IT,bing,bici elettriche san gimignano,2,none,shop/repair,shop/repair,e-bike
+negozio bici elettriche vicino a me,IT,bing,bici elettriche san gimignano,2,none,shop/repair,shop/repair,e-bike; near
+negozio bici firenze centro,IT,google,negozio bici firenze,2,florence,shop/repair,shop/repair,
+negozio bici firenze e provincia,IT,google,negozio bici firenze,2,florence,shop/repair,shop/repair,
+negozio bici firenze sud,IT,google,negozio bici firenze,2,florence,shop/repair,shop/repair,
+negozio bici gaiole in chianti,IT,google,negozio bici chianti,2,chianti,shop/repair,shop/repair,
+negozio bici gavinana firenze,IT,google,negozio bici firenze,2,florence,shop/repair,shop/repair,
+negozio bici greve in chianti,IT,google,negozio bici chianti,2,chianti,shop/repair,shop/repair,
+negozio bici isolotto firenze,IT,google,negozio bici firenze,2,florence,shop/repair,shop/repair,
+negozio bici milano e provincia,IT,bing,negozio bici san gimignano,2,none,shop/repair,shop/repair,
+negozio bici piazzale siena,IT,google,negozio bici siena,2,siena,shop/repair,shop/repair,
+negozio bici piazzale siena milano,IT,google,negozio bici siena,2,siena,shop/repair,shop/repair,
+negozio bici poggibonsi,IT,google,negozio bici poggibonsi,2,poggibonsi,shop/repair,shop/repair,
+negozio bici san gimignano,IT,google,negozio bici san gimignano,2,san gimignano,shop/repair,shop/repair,
+negozio bici usate milano,IT,bing,negozio bici san gimignano,2,none,used,other,
+negozio bici via nino bixio siena,IT,google,negozio bici siena,2,siena,shop/repair,shop/repair,
+negozio bici via toscana bologna,IT,google,negozio bici toscana,2,tuscany,shop/repair,shop/repair,
+negozio bici volterra,IT,google,negozio bici volterra,2,volterra,shop/repair,shop/repair,
+negozio di bici milano,IT,bing,negozio bici san gimignano,2,none,shop/repair,shop/repair,
+negozio di bici online,IT,bing,negozio bici san gimignano,2,none,shop/repair,shop/repair,
+negozio di bici roma,IT,bing,negozio bici san gimignano,2,none,shop/repair,shop/repair,
+negozio di bici usate,IT,bing,negozio bici val d'orcia,2,none,used,other,
+negozio di bici vicino a me,IT,bing,negozio bici san gimignano,2,none,shop/repair,shop/repair,near
+negozio online di bici,IT,bing,negozio bici val d'orcia,2,none,shop/repair,shop/repair,
+noleggio auto a creta consigli,IT,bing,noleggio e-bike crete senesi,2,none,other,transactional-rental,
+noleggio auto maggiore legnano,IT,bing,noleggio vespa san gimignano,2,none,other,transactional-rental,
+noleggio auto san giuseppe vesuviano,IT,bing,noleggio vespa san gimignano,2,none,other,transactional-rental,
+noleggio auto san severo,IT,bing,noleggio vespa san gimignano,2,none,other,transactional-rental,
+noleggio auto siena stazione,IT,bing,noleggio bici da corsa siena,2,siena,other,transactional-rental,
+noleggio auto villa san giovanni,IT,bing,noleggio vespa san gimignano,2,none,other,transactional-rental,
+noleggio bici chianti,IT,google,noleggio bici chianti,2,chianti,bike,transactional-rental,
+noleggio bici con seggiolino firenze,IT,google,noleggio bici firenze,2,florence,bike,transactional-rental,
+noleggio bici crete senesi,IT,google,noleggio bici crete senesi,2,crete senesi,bike,transactional-rental,
+noleggio bici elettriche decathlon,IT,bing,noleggio bici elettriche poggibonsi,2,none,e-bike,transactional-rental,e-bike
+noleggio bici elettriche lago di garda,IT,bing,noleggio bici elettriche volterra,2,none,e-bike,transactional-rental,e-bike
+noleggio bici favignana porto,IT,bing,noleggio bici da corsa poggibonsi,2,none,bike,transactional-rental,
+noleggio bici gravel firenze,IT,google,noleggio bici firenze,2,florence,gravel,transactional-rental,gravel
+noleggio bici isola del giglio,IT,bing,noleggio bici san gimignano,2,none,bike,transactional-rental,
+noleggio bici lago di bolsena,IT,bing,noleggio bici da corsa poggibonsi,2,none,bike,transactional-rental,
+noleggio bici marina di campo,IT,bing,noleggio bici da corsa toscana,2,none,bike,transactional-rental,
+noleggio bici monteriggioni,IT,google,noleggio bici monteriggioni,2,monteriggioni,bike,transactional-rental,
+noleggio bici poggibonsi,IT,google,noleggio bici poggibonsi,2,poggibonsi,bike,transactional-rental,
+noleggio bici porto recanati,IT,bing,noleggio bici da corsa poggibonsi,2,none,bike,transactional-rental,
+noleggio bici torino centro,IT,bing,noleggio bici da corsa chianti,2,none,bike,transactional-rental,
+noleggio bici toscana,IT,google,noleggio bici toscana,2,tuscany,bike,transactional-rental,
+noleggio bici val d'orcia,IT,google+bing,noleggio bici val d'orcia,2,val d'orcia,bike,transactional-rental,
+noleggio bici valeggio sul mincio,IT,bing,noleggio bici val d'orcia,2,none,bike,transactional-rental,
+noleggio bici volterra,IT,google,noleggio bici volterra,2,volterra,bike,transactional-rental,
+noleggio e bike castellina in chianti,IT,google,noleggio e-bike chianti,2,chianti,bike,transactional-rental,
+noleggio e bike chianti,IT,google,noleggio e-bike chianti,2,chianti,bike,transactional-rental,
+noleggio e bike colle val d'elsa,IT,google,noleggio e-bike val d'elsa,2,colle di val d'elsa,bike,transactional-rental,
+noleggio e bike gaiole in chianti,IT,google,noleggio e-bike chianti,2,chianti,bike,transactional-rental,
+noleggio e bike greve in chianti,IT,google,noleggio e-bike chianti,2,chianti,bike,transactional-rental,
+noleggio e bike lungo termine,IT,bing,noleggio e-bike san gimignano,2,none,bike,transactional-rental,
+noleggio e bike milano,IT,bing,noleggio e-bike san gimignano,2,none,bike,transactional-rental,
+noleggio e bike monteriggioni,IT,google,noleggio e-bike monteriggioni,2,monteriggioni,bike,transactional-rental,
+noleggio e bike poggibonsi,IT,google,noleggio e-bike poggibonsi,2,poggibonsi,bike,transactional-rental,
+noleggio e bike radda in chianti,IT,google,noleggio e-bike chianti,2,chianti,bike,transactional-rental,
+noleggio e bike toscana,IT,google,noleggio e-bike toscana,2,tuscany,bike,transactional-rental,
+noleggio e bike val d'orcia,IT,bing,noleggio e-bike val d'orcia,2,val d'orcia,bike,transactional-rental,
+noleggio e bike volterra,IT,google,noleggio e-bike volterra,2,volterra,bike,transactional-rental,
+noleggio gravel firenze,IT,google,noleggio gravel firenze,2,florence,gravel,transactional-rental,gravel
+noleggio gravel gaiole in chianti,IT,google,noleggio gravel chianti,2,chianti,gravel,transactional-rental,gravel
+noleggio gravel siena,IT,google,noleggio gravel siena,2,siena,gravel,transactional-rental,gravel
+noleggio gravel toscana,IT,google,noleggio gravel toscana,2,tuscany,gravel,transactional-rental,gravel
+noleggio gravel val d'orcia,IT,google,noleggio gravel val d'orcia,2,val d'orcia,gravel,transactional-rental,gravel
+noleggio lungo termine e bike toscana,IT,google,noleggio e-bike toscana,2,tuscany,bike,transactional-rental,
+noleggio lungo termine firenze,IT,bing,noleggio bici da corsa firenze,2,florence,other,transactional-rental,
+noleggio macchine per pulizia pavimenti,IT,bing,noleggio gravel san gimignano,2,none,other,transactional-rental,
+noleggio motorino lungo termine,IT,bing,noleggio vespa san gimignano,2,none,other,transactional-rental,
+noleggio sci val di luce,IT,bing,noleggio bici val d'elsa,2,none,other,transactional-rental,
+noleggio scooter 6 mesi,IT,bing,noleggio vespa san gimignano,2,none,vespa,transactional-rental,
+noleggio scooter isola del giglio,IT,bing,noleggio e-bike san gimignano,2,none,vespa,transactional-rental,
+noleggio scooter la valletta,IT,bing,noleggio vespa val d'elsa,2,none,vespa,transactional-rental,
+noleggio scooter lungo termine,IT,bing,noleggio vespa san gimignano,2,none,vespa,transactional-rental,
+noleggio scooter lungo termine privati,IT,bing,noleggio vespa san gimignano,2,none,vespa,transactional-rental,
+noleggio vespa castellina in chianti,IT,google,noleggio vespa chianti,2,chianti,vespa,transactional-rental,
+noleggio vespa colle val d elsa,IT,google,noleggio vespa val d'elsa,2,colle di val d'elsa,vespa,transactional-rental,
+noleggio vespa d epoca toscana,IT,google,noleggio vespa toscana,2,tuscany,vespa,transactional-rental,
+noleggio vespa d'epoca firenze,IT,google,noleggio vespa firenze,2,florence,vespa,transactional-rental,
+noleggio vespa gaiole in chianti,IT,google,noleggio vespa chianti,2,chianti,vespa,transactional-rental,
+noleggio vespa greve in chianti,IT,google,noleggio vespa chianti,2,chianti,vespa,transactional-rental,
+noleggio vespa poggibonsi,IT,google,noleggio vespa poggibonsi,2,poggibonsi,vespa,transactional-rental,
+noleggio vespa radda in chianti,IT,google,noleggio vespa chianti,2,chianti,vespa,transactional-rental,
+noleggio vespa san gimignano,IT,google,noleggio vespa san gimignano,2,san gimignano,vespa,transactional-rental,
+noleggio vespa siena,IT,google,noleggio vespa siena,2,siena,vespa,transactional-rental,
+noleggio vespa toscana,IT,google,noleggio vespa toscana,2,tuscany,vespa,transactional-rental,
+noleggio vespa volterra,IT,google,noleggio vespa volterra,2,volterra,vespa,transactional-rental,
+offerta bici da corsa,IT,bing,noleggio bici da corsa val d'orcia,2,none,road,other,road
+officina bici firenze,IT,google,officina bici firenze,2,florence,shop/repair,shop/repair,
+officina bici siena,IT,google,officina bici siena,2,siena,shop/repair,shop/repair,
+officina bici vicino a me,IT,bing,officina bici san gimignano,2,none,shop/repair,shop/repair,near
+officina rigacci san gimignano,IT,bing,officina bici san gimignano,2,san gimignano,shop/repair,shop/repair,
+party in bici firenze,IT,bing,tour in bici firenze,2,florence,bike,other,
+percorsi in bici toscana,IT,bing,tour in bici toscana,2,tuscany,tour,tour/guided,routes/itineraries
+percorsi in bici val d orcia,IT,google,tour in bici val d'orcia,2,val d'orcia,tour,tour/guided,routes/itineraries
+percorsi mtb firenze e dintorni,IT,bing,tour in bici firenze,2,florence,mtb,info-route,mtb; routes/itineraries
+riparazione bici firenze centro,IT,google,riparazione bici firenze,2,florence,shop/repair,shop/repair,
+riparazione bici firenze sud,IT,google,riparazione bici firenze,2,florence,shop/repair,shop/repair,
+riparazione bici isolotto firenze,IT,google,riparazione bici firenze,2,florence,shop/repair,shop/repair,
+riparazione bici poggibonsi,IT,google,riparazione bici poggibonsi,2,poggibonsi,shop/repair,shop/repair,
+riparazione bici siena,IT,google,riparazione bici siena,2,siena,shop/repair,shop/repair,
+riparazione bici vicino a me,IT,bing,riparazione bici san gimignano,2,none,shop/repair,shop/repair,near
+riparazione biciclette vicino al parco,IT,bing,riparazione bici val d'orcia,2,none,shop/repair,shop/repair,near
+riparazione biciclette vicino alla stazione,IT,bing,riparazione bici san gimignano,2,none,shop/repair,shop/repair,near
+riparazione.bici via manni firenze,IT,google,riparazione bici firenze,2,florence,shop/repair,shop/repair,
+riparazioni biciclette vicino al centro,IT,bing,riparazione bici val d'orcia,2,none,shop/repair,shop/repair,near
+san gimignano bus turistici,IT,bing,tour in bici san gimignano,2,san gimignano,other,other,
+san gimignano e dintorni in 2 giorni,IT,bing,tour in bici san gimignano,2,san gimignano,other,other,
+san gimignano guided tour,IT,bing,tour in bici san gimignano,2,san gimignano,tour,tour/guided,guided
+san gimignano in camper,IT,bing,noleggio vespa san gimignano,2,san gimignano,other,other,
+san gimignano visita guidata,IT,bing,tour in bici san gimignano,2,san gimignano,tour,tour/guided,guided
+set chiavi per bici,IT,bing,tour in bici chianti,2,none,bike,other,
+siena san gimignano tour,IT,bing,tour in bici san gimignano,2,san gimignano,tour,tour/guided,
+sito transitorio crete senesi,IT,bing,tour in bici crete senesi,2,crete senesi,other,other,
+things to do in volterra,IT,bing,tour in bici volterra,2,volterra,other,other,
+tour del chianti da firenze,IT,bing,tour in bici chianti,2,chianti,tour,tour/guided,
+tour del chianti da siena,IT,bing,tour in bici chianti,2,chianti,tour,tour/guided,
+tour di firenze in 4 giorni,IT,bing,tour in bici firenze,2,florence,tour,tour/guided,
+tour durch das elsass,IT,bing,tour in bici val d'elsa,2,none,tour,tour/guided,
+tour firenze 1 giorno,IT,bing,tour in bici firenze,2,florence,tour,tour/guided,
+tour firenze 2 giorni,IT,bing,tour in bici firenze,2,florence,tour,tour/guided,
+tour firenze due giorni,IT,bing,tour in bici firenze,2,florence,tour,tour/guided,
+tour in bici chianti,IT,google,tour in bici chianti,2,chianti,tour,tour/guided,
+tour in bici firenze,IT,google,tour in bici firenze,2,florence,tour,tour/guided,
+tour in bici siena,IT,google,tour in bici siena,2,siena,tour,tour/guided,
+tour in bici siviglia,IT,bing,tour in bici volterra,2,none,tour,tour/guided,
+tour in bici val d orcia,IT,google,tour in bici val d'orcia,2,val d'orcia,tour,tour/guided,
+tour in mtb in toscana,IT,bing,tour in bici toscana,2,tuscany,mtb,tour/guided,mtb
+tour of siena italy,IT,bing,tour in bici siena,2,siena,tour,tour/guided,
+tour si in toscana,IT,bing,tour in bici toscana,2,tuscany,tour,tour/guided,
+tour siena san gimignano chianti,IT,bing,tour in bici san gimignano,2,san gimignano,tour,tour/guided,
+tour toscana in moto,IT,bing,tour in bici toscana,2,tuscany,tour,tour/guided,
+tours de san gimignano,IT,bing,tour in bici san gimignano,2,san gimignano,tour,tour/guided,
+tours from siena italy,IT,bing,tour in bici siena,2,siena,tour,tour/guided,
+trail della val d'orcia,IT,bing,tour in bici val d'orcia,2,val d'orcia,other,other,
+vacanze in bici in italia,IT,bing,tour in bici toscana,2,none,bike,other,
+val d'orcia con bambini,IT,bing,negozio bici val d'orcia,2,val d'orcia,other,other,family/kids
+val d'orcia dove si trova,IT,bing,officina bici val d'orcia,2,val d'orcia,other,other,
+val d'orcia gravel 2026,IT,bing,noleggio gravel val d'orcia,2,val d'orcia,gravel,other,gravel
+val d'orcia immobili vendita,IT,bing,negozio bici val d'orcia,2,val d'orcia,other,other,
+val d'orcia in bici,IT,bing,bici usate val d'orcia,2,val d'orcia,bike,other,
+val d'orcia in camper,IT,bing,noleggio vespa val d'orcia,2,val d'orcia,other,other,
+val d'orcia itinerario 3 giorni,IT,bing,tour in bici val d'orcia,2,val d'orcia,tour,tour/guided,routes/itineraries
+val d'orcia itinerario 5 giorni,IT,bing,tour in bici val d'orcia,2,val d'orcia,tour,tour/guided,routes/itineraries
+val d'orcia mappa turistica,IT,bing,bici usate val d'orcia,2,val d'orcia,other,other,
+vendita bici da corsa,IT,bing,noleggio bici da corsa val d'orcia,2,none,road,other,road
+vendita bici elettriche firenze,IT,google,bici elettriche firenze,2,florence,e-bike,other,e-bike
+vendita bici elettriche online,IT,bing,bici elettriche san gimignano,2,none,e-bike,other,e-bike
+vendita bici elettriche roma,IT,bing,bici elettriche san gimignano,2,none,e-bike,other,e-bike
+vendita bici elettriche usate,IT,bing,bici elettriche val d'orcia,2,none,used,other,e-bike
+vendita bici usate firenze,IT,google,bici usate firenze,2,florence,used,other,
+via san gimignano milano,IT,bing,bici usate san gimignano,2,san gimignano,other,other,
+viaggio a monteriggioni dove si trova,IT,bing,tour in bici monteriggioni,2,monteriggioni,other,other,
+viale san gimignano 4/a milano,IT,bing,bici usate san gimignano,2,san gimignano,other,other,
+viale san gimignano milano,IT,bing,negozio bici san gimignano,2,san gimignano,other,other,
+viamichelin percorso in bicicletta,IT,bing,tour in bici chianti,2,none,tour,tour/guided,routes/itineraries
+visitare la val d'orcia,IT,bing,tour in bici val d'orcia,2,val d'orcia,other,other,
+visitare volterra in un giorno,IT,bing,tour in bici volterra,2,volterra,other,other,
+volterra cosa vedere in 1 giorno,IT,bing,tour in bici volterra,2,volterra,other,other,
+volterra italy things to do,IT,bing,tour in bici volterra,2,volterra,other,other,
+walking tour of siena,IT,bing,tour in bici siena,2,siena,tour,tour/guided,
+walking tour siena italy,IT,bing,tour in bici siena,2,siena,tour,tour/guided,
+wanderung val d elsa,IT,bing,tour in bici val d'elsa,2,val d'elsa,other,other,
+weekend in val d'orcia,IT,bing,tour in bici val d'orcia,2,val d'orcia,other,other,
+wine tour in siena,IT,bing,tour in bici siena,2,siena,tour,tour/guided,wine
+e bike huren toscane,NL,google,e-bike huren toscane,2,tuscany,bike,transactional-rental,
+fiets huren in toscane,NL,bing,fiets huren toscane,2,tuscany,bike,transactional-rental,
+fiets huren siena,NL,google,fiets huren siena,2,siena,bike,transactional-rental,
+fiets huren toscane,NL,google,fiets huren toscane,2,tuscany,bike,transactional-rental,
+racefiets huren siena,NL,google,racefiets huren siena,2,siena,road,transactional-rental,road
+racefiets huren toscane,NL,google,racefiets huren toscane,2,tuscany,road,transactional-rental,road
+radtour durch florenz,DE,google,radtour florenz,1,florence,tour,tour/guided,
+alinari bike rental florence,EN,google,bike rental florence,1,florence,bike,transactional-rental,
+bike hire in siena,EN,google,bike rental siena,1,siena,bike,transactional-rental,
+bike hire in tuscany,EN,google,bike rental tuscany,1,tuscany,bike,transactional-rental,
+bike rental for tuscany trail,EN,google,bike rental tuscany,1,tuscany,bike,transactional-rental,
+bike rental france,EN,bing,bike rental florence,1,none,bike,transactional-rental,
+bike rental greve in chianti,EN,google,bike rental chianti,1,chianti,bike,transactional-rental,
+bike rental in florence,EN,google,bike rental florence,1,florence,bike,transactional-rental,
+bike rental in san gimignano,EN,google,bike rental san gimignano,1,san gimignano,bike,transactional-rental,
+bike rental in siena,EN,google,bike rental siena,1,siena,bike,transactional-rental,
+bike rental in tuscany,EN,google,bike rental tuscany,1,tuscany,bike,transactional-rental,
+bike rental near san gimignano,EN,bing,bike rental san gimignano,1,san gimignano,bike,transactional-rental,near
+bike rentals near shining sea bikeway,EN,google,bike rental siena,1,none,bike,transactional-rental,near
+bike tour france,EN,bing,bike tour florence,1,none,tour,tour/guided,
+bike tour in florence,EN,bing,bike tour florence,1,florence,tour,tour/guided,
+bike trips tuscany,EN,google,bike tour tuscany,1,tuscany,bike,other,
+can you ride a bike with a yeast infection,EN,google,bike rental tuscany,1,none,bike,other,
+cheap bike rental florence,EN,google,bike rental florence,1,florence,bike,transactional-rental,
+chianti live bike rental,EN,google,bike rental chianti,1,chianti,bike,transactional-rental,
+city bike rental florence,EN,google,bike rental florence,1,florence,bike,transactional-rental,
+cycle signal direction,EN,bing,cycling siena,1,none,bike,other,
+cyclin g signaling pathway,EN,bing,cycling siena,1,none,other,other,
+cycling france,EN,bing,cycling florence,1,none,bike,other,
+cycling in tuscany,EN,bing,cycling tuscany,1,tuscany,bike,other,
+cycling shenandoah national park,EN,bing,cycling siena,1,none,bike,other,
+cycling signals,EN,bing,cycling siena,1,none,bike,other,
+cycling sina,EN,bing,cycling siena,1,none,bike,other,
+cycling sina only,EN,bing,cycling siena,1,none,bike,other,
+e bike hire tuscany,EN,google,electric bike rental tuscany,1,tuscany,bike,transactional-rental,
+e bike rental in florence,EN,google,bike rental florence,1,florence,bike,transactional-rental,
+e bike rental in tuscany,EN,google,bike rental tuscany,1,tuscany,bike,transactional-rental,
+e bike tour tuscany,EN,google,bike tour tuscany,1,tuscany,tour,tour/guided,
+electric bike hire tuscany,EN,google,electric bike rental tuscany,1,tuscany,e-bike,transactional-rental,e-bike
+florence bike rental,EN,bing,bike rental florence,1,florence,bike,transactional-rental,
+florence by bike rental,EN,google,bike rental florence,1,florence,bike,transactional-rental,
+florence dirt bike rental,EN,google,bike rental florence,1,florence,bike,transactional-rental,
+florence motorbike rental,EN,google,bike rental florence,1,florence,other,transactional-rental,
+florence vespa rental,EN,bing,vespa rental florence,1,florence,vespa,transactional-rental,
+gravel bike rent florence,EN,google,gravel bike rental florence,1,florence,gravel,transactional-rental,gravel
+gravel bike rental in tuscany,EN,google,bike rental tuscany,1,tuscany,gravel,transactional-rental,gravel
+mountain bike rental florence,EN,google,bike rental florence,1,florence,mtb,transactional-rental,
+race bike rental florence,EN,google,bike rental florence,1,florence,bike,transactional-rental,
+race bike rental tuscany,EN,google,bike rental tuscany,1,tuscany,bike,transactional-rental,
+rent vespa florence italy,EN,google,vespa rental florence,1,florence,vespa,transactional-rental,
+rental.siena bike shop,EN,google,bike rental siena,1,siena,shop/repair,shop/repair,
+road bike rentals in tuscany,EN,google,bike rental tuscany,1,tuscany,road,transactional-rental,road
+siena bike rental,EN,bing,bike rental siena,1,siena,bike,transactional-rental,
+tour from florence to venice by bike,EN,bing,bike tour florence,1,florence,tour,tour/guided,
+tuscany bike rental nagole,EN,google,bike rental tuscany,1,tuscany,bike,transactional-rental,
+tuscany bike tour,EN,bing,bike tour tuscany,1,tuscany,tour,tour/guided,
+vespa rental firenze,EN,google,vespa rental florence,1,florence,vespa,transactional-rental,
+location velo florence,FR,google,location vélo florence,1,florence,bike,transactional-rental,
+location velo florence italie,FR,google,location vélo florence,1,florence,bike,transactional-rental,
+location vélo chantilly,FR,bing,location vélo chianti,1,none,bike,transactional-rental,
+location vélo vienne,FR,bing,location vélo sienne,1,none,bike,transactional-rental,
+location vélo électrique florence,FR,google,location vélo électrique florence,1,florence,e-bike,transactional-rental,e-bike
+bonus bici elettrica firenze,IT,bing,noleggio bici elettriche firenze,1,florence,e-bike,other,e-bike
+negozio bici siena e provincia,IT,google,negozio bici siena,1,siena,shop/repair,shop/repair,
+noleggio bici a firenze,IT,google,noleggio bici firenze,1,florence,bike,transactional-rental,
+noleggio bici a siena,IT,google,noleggio bici siena,1,siena,bike,transactional-rental,
+noleggio bici decathlon firenze,IT,google,noleggio bici firenze,1,florence,bike,transactional-rental,
+noleggio bici elettrica firenze,IT,google,noleggio bici firenze,1,florence,e-bike,transactional-rental,e-bike
+noleggio bici elettrica siena,IT,google,noleggio bici siena,1,siena,e-bike,transactional-rental,e-bike
+noleggio bici in toscana,IT,google,noleggio bici toscana,1,tuscany,bike,transactional-rental,
+noleggio bici in val d orcia,IT,google,noleggio bici val d'orcia,1,val d'orcia,bike,transactional-rental,
+noleggio bici trek firenze,IT,google,noleggio bici firenze,1,florence,bike,transactional-rental,
+noleggio bici val d orcia,IT,google,noleggio bici val d'orcia,1,val d'orcia,bike,transactional-rental,
+noleggio e bike firenze,IT,google,noleggio e-bike firenze,1,florence,bike,transactional-rental,
+noleggio e bike san gimignano,IT,google,noleggio e-bike san gimignano,1,san gimignano,bike,transactional-rental,
+noleggio e bike siena,IT,google,noleggio e-bike siena,1,siena,bike,transactional-rental,
+noleggio e bike val d orcia,IT,google,noleggio e-bike val d'orcia,1,val d'orcia,bike,transactional-rental,
+noleggio e-bike firenze,IT,google,noleggio e-bike firenze,1,florence,e-bike,transactional-rental,e-bike
+noleggio e-bike san gimignano,IT,google,noleggio e-bike san gimignano,1,san gimignano,e-bike,transactional-rental,e-bike
+noleggio e-bike siena,IT,google,noleggio e-bike siena,1,siena,e-bike,transactional-rental,e-bike
+noleggio e-bike val d'orcia,IT,google,noleggio e-bike val d'orcia,1,val d'orcia,e-bike,transactional-rental,e-bike
+noleggio vespa nel chianti,IT,google,noleggio vespa chianti,1,chianti,vespa,transactional-rental,
+noleggio vespa val d orcia,IT,google,noleggio vespa val d'orcia,1,val d'orcia,vespa,transactional-rental,
+noleggio vespe siena,IT,bing,noleggio vespa siena,1,siena,other,transactional-rental,
+noleggio vespe toscana,IT,bing,noleggio vespa toscana,1,tuscany,other,transactional-rental,
+recensioni di siena velo noleggio bici a siena,IT,google,noleggio bici siena,1,siena,bike,transactional-rental,reviews
+tour del chianti in bici,IT,google,tour in bici chianti,1,chianti,tour,tour/guided,
+tour in bici nel chianti,IT,google,tour in bici chianti,1,chianti,tour,tour/guided,
+tour toscana 4 giorni,IT,bing,tour in bici toscana,1,tuscany,tour,tour/guided,

@@ -1,0 +1,462 @@
+{
+  "source_urls": [
+    "https://www.gippobike.com/noleggio-biciclette/",
+    "https://www.gippobike.com/noleggio-vespe/",
+    "https://www.gippobike.com/ebike/"
+  ],
+  "fetched_at": "2026-11-12T07:59:04Z",
+  "page_sections": [
+    {
+      "order": 1,
+      "heading": "NOLEGGIO BICICLETTE",
+      "type": "hero",
+      "summary": "Hero with subheading CONSEGNE IN TUTTA LA TOSCANA; quick-booking info lines (EN mixed in)."
+    },
+    {
+      "order": 2,
+      "heading": "CORSA WIRELESS DISC ... TANDEM",
+      "type": "bike_grid",
+      "summary": "13 rental bike cards, each with day/week price, Specifiche Tecniche PDF, Prenotazione e-mail and Prenotazione rapida (Lokki) buttons."
+    },
+    {
+      "order": 3,
+      "heading": "CONSEGNE IN TUTTA LA TOSCANA",
+      "type": "text",
+      "summary": "Delivery area statement, delivery cost on request, helmet and repair kit included, rental window 9:00-19:00, dress code advice."
+    },
+    {
+      "order": 4,
+      "heading": "Listino add-on (no heading)",
+      "type": "other",
+      "summary": "Add-ons with prices: Ortlieb rear bag 10€ (Touring), child seat 10€ (Touring), car bike rack 25€ (1 week), Garmin 10€."
+    },
+    {
+      "order": 5,
+      "heading": "Form prenotazione",
+      "type": "form",
+      "summary": "Formidable booking form: Anagrafica, Scelta biciclette (type + height + pedals + sex), Altre informazioni (delivery place), Note, Termini e Condizioni PDF."
+    },
+    {
+      "order": 6,
+      "heading": null,
+      "type": "text",
+      "summary": "Closing paragraph about renting in Colle di Val d’Elsa and delivery across Tuscany; shop invitation."
+    },
+    {
+      "order": 7,
+      "heading": null,
+      "type": "other",
+      "summary": "Footer: GIPPO Bike address, phone, email, P.IVA, designer credit."
+    }
+  ],
+  "bikes": [
+    {
+      "category": "CORSA WIRELESS DISC",
+      "model": "Wilier Triestina Cento10 SL",
+      "specs": [
+        "Sram Rival ETAP AXS 2×12 (Cambio Elettronico)"
+      ],
+      "price_day": "Giornaliero: 60€",
+      "price_week": "Settimanale: 340€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2022/11/cento10_sl_cv_2022_d14r-1024x624.jpg",
+      "image_filename": "cento10_sl_cv_2022_d14r-1024x624.jpg",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2022/11/RW-Wilier-Triestina-Cento10-SL.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/it/products/6939258692109d4292e80c53"
+        }
+      ]
+    },
+    {
+      "category": "CORSA Di2",
+      "model": "Bici da Corsa Wilier GTR Team",
+      "specs": [
+        "Shimano Ultegra Di2 2x11v (Cambio Elettronico)"
+      ],
+      "price_day": "Giornaliero: 50€",
+      "price_week": "Settimanale: 280€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2020/12/Wilier-Di2-Gtr-team-Ridotta.jpg",
+      "image_filename": "Wilier-Di2-Gtr-team-Ridotta.jpg",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2020/02/RD-Wilier-Triestina-GTR-Di2.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/69392753f148880684e3aed8"
+        }
+      ]
+    },
+    {
+      "category": "CORSA",
+      "model": "Bici da Corsa Wilier Triestina GTR Team",
+      "specs": [
+        "Telaio in Carbonio Shimano Ultegra 2x11v"
+      ],
+      "price_day": "Giornaliero: 40€",
+      "price_week": "Settimanale: 220€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2020/12/Wilier-GTR.jpg",
+      "image_filename": "Wilier-GTR.jpg",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2020/02/R-Road-bike-Wilier.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/69392886ae251ac147462a50"
+        }
+      ]
+    },
+    {
+      "category": "ELETTRICA CORSA",
+      "model": "Wilier Cento1 Hybrid",
+      "specs": [
+        "Telaio in Carbonio Freni a Disco"
+      ],
+      "price_day": "Giornaliero: 75€",
+      "price_week": "Settimanale: 400€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2020/12/Wilier-Cento1hybrid-Ridotta.jpg",
+      "image_filename": "Wilier-Cento1hybrid-Ridotta.jpg",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2020/02/ER-Wilier-Cento1-Hybrid.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/693942f2f148880684ef8e9a"
+        }
+      ]
+    },
+    {
+      "category": "CORSA MANUBRIO PIATTO",
+      "model": "Specialized Sirrus Elite",
+      "specs": [
+        "Telaio in Carbonio Freni a Disco"
+      ],
+      "price_day": "Giornaliero: 40€",
+      "price_week": "Settimanale: 220€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2020/02/Flat-Bar-Road-1024x610.jpg",
+      "image_filename": "Flat-Bar-Road-1024x610.jpg",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2024/03/F-Road-Flat-Bar-Specialized-Sirrus.docx.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/69393c2492109d4292f16c74"
+        }
+      ]
+    },
+    {
+      "category": "GRAVEL",
+      "model": "Specialized Diverge Carbon",
+      "specs": [
+        "Telaio in Carbonio"
+      ],
+      "price_day": "Giornaliero: 45€",
+      "price_week": "Settimanale: 250€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2020/02/95420-53_DIVERGE-COMP-CARBON-CARB-GUN_HERO-1024x617.jpg",
+      "image_filename": "95420-53_DIVERGE-COMP-CARBON-CARB-GUN_HERO-1024x617.jpg",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2020/08/G-Gravel-Bike-Specialized-Diverge.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/6931b0b8feb8a3cdd0e8bdef"
+        }
+      ]
+    },
+    {
+      "category": "GRAVEL ELETTRICA",
+      "model": "XP ALLROAD",
+      "specs": [
+        "Batteria 540Wh"
+      ],
+      "price_day": "Giornaliero: 60€",
+      "price_week": "Settimanale: 340€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2024/12/XP-Allroad-1.jpg",
+      "image_filename": "XP-Allroad-1.jpg",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2024/12/EG-E-Gravel-Bike-XP.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/6931b1933056769c40023375"
+        }
+      ]
+    },
+    {
+      "category": "TOURING ELETTRICA",
+      "model": "Winora Sinus 9",
+      "specs": [
+        "Motore Bosch"
+      ],
+      "price_day": "Giornaliero: 40€",
+      "price_week": "Settimanale: 220€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2024/12/Sinus-9-1024x646.jpg",
+      "image_filename": "Sinus-9-1024x646.jpg",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2024/12/ET-Winora-Sinus-9.docx.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/6931a6aefeb8a3cdd0e3a4c9"
+        }
+      ]
+    },
+    {
+      "category": "TOURING",
+      "model": "Touring Cube One",
+      "specs": [
+        "Telaio in Alluminio Freni a Disco"
+      ],
+      "price_day": "Giornaliero: 20€",
+      "price_week": "Settimanale: 110€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2020/12/Touring-Cube-One.jpg",
+      "image_filename": "Touring-Cube-One.jpg",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2020/02/T-Touring-Cube-One.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/692f196e9f1034337eec570b"
+        }
+      ]
+    },
+    {
+      "category": "MTB ELETTRICA FULL",
+      "model": "Haibike ALL MNT 1 Full Suspension 160 mm",
+      "specs": [
+        "Motore Yamaha Batteria 630Wh"
+      ],
+      "price_day": "Giornaliero: 60€",
+      "price_week": "Settimanale: 340€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2022/02/Haibike_MY21_AllMtn_1_Color_01.png",
+      "image_filename": "Haibike_MY21_AllMtn_1_Color_01.png",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2022/02/EMF-Haibike-ALL-MTN-1.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/6931acfe3056769c400006ab"
+        }
+      ]
+    },
+    {
+      "category": "MTB ELETTRICA",
+      "model": "HAIBIKE 6",
+      "specs": [
+        "Motore Yamaha"
+      ],
+      "price_day": "Giornaliero: 50€",
+      "price_week": "Settimanale: 280€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2025/02/Hardnine-6-1-1024x548.png",
+      "image_filename": "Hardnine-6-1-1024x548.png",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2025/02/EM-Haibike-HARDNINE-6.docx.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/6931aba722766cdef10dd90a"
+        }
+      ]
+    },
+    {
+      "category": "MOUNTAIN BIKE",
+      "model": "MTB CUBE AIM SLX",
+      "specs": [
+        "Telaio in Alluminio Freni a Disco"
+      ],
+      "price_day": "Giornaliero: 25€",
+      "price_week": "Settimanale: 140€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2024/11/Cube-Aim-SLX-slateblack´n´black.png",
+      "image_filename": "Cube-Aim-SLX-slateblack´n´black.png",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2024/11/M-Cube-AIM-SLX.pdf.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/6931a907feb8a3cdd0e4d19c"
+        }
+      ]
+    },
+    {
+      "category": "TANDEM",
+      "model": "Tandem Cannondale",
+      "specs": [
+        "Touring"
+      ],
+      "price_day": "Giornaliero: 40€",
+      "price_week": "Settimanale: 220€",
+      "other_prices": [],
+      "image_url": "https://www.gippobike.com/wp-content/uploads/2022/11/248050_light_zoom_risultato-rita-1024x421.jpg",
+      "image_filename": "248050_light_zoom_risultato-rita-1024x421.jpg",
+      "buttons": [
+        {
+          "label": "Specifiche Tecniche",
+          "href": "http://www.gippobike.com/wp-content/uploads/2020/02/TAN-Tandem.pdf"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/69296f35ff20bc7b7fce6847"
+        }
+      ]
+    }
+  ],
+  "vespa": [
+    {
+      "category": "Vespa, lo scooter italiano",
+      "model": "Piaggio Vespa Scooter 125cc",
+      "specs": [],
+      "price_day": "70€",
+      "price_week": "370€",
+      "other_prices": [
+        "Il noleggio dei caschi è incluso con la Vespa .",
+        "Il prezzo per la benzina non è incluso. La Vespa viene fornita con il serbatoio pieno e deve essere riconsegnata nelle stesse condizioni ."
+      ],
+      "image_url": null,
+      "image_filename": null,
+      "buttons": [
+        {
+          "label": "Prenotazione rapida",
+          "href": "https://gippobike.lokki.rent/en/products/692dbb11d66a621c9f0de000"
+        },
+        {
+          "label": "Prenotazione e-mail",
+          "href": "#prenota"
+        },
+        {
+          "label": "Richiedi informazioni",
+          "href": "#prenota"
+        }
+      ]
+    }
+  ],
+  "ebike_page": {
+    "headings": [
+      "E-Bike",
+      "La nuova generazione del divertimento a due ruote",
+      "E-BIKE",
+      "Test Ride"
+    ],
+    "text": [
+      "La ginnastica praticata durante la pedalata è una ginnastica aerobica con notevoli benefici a livello metabolico, cardiocircolatorio e respiratorio . La bicicletta elettrica è accessibile a chiunque abbia voglia di praticare una ginnastica sana , adeguata a qualsiasi tipo di preparazione fisica. Questo ci permette di pedalare per distanze molto più grandi , di raggiungere percorsi e luoghi che con la bicicletta “normale” sarebbero difficili, se non impossibili da raggiungere. La Toscana è tanto bella quanto collinare, ma la bicicletta elettrica, grazie alla combinazione delle marce meccaniche con le regolazioni elettroniche del motore, permette di affrontare qualsiasi tipo di salita con la possibilità di decidere sempre il livello di sforzo da applicare .",
+      "Vieni a provare un’esperienza incredibile."
+    ],
+    "brands": [
+      "fanticbikes250x36",
+      "specialized-logo",
+      "haibike-logo",
+      "Husqvarna Logo",
+      "logo-cube-mtb",
+      "triestina"
+    ]
+  },
+  "facts": [
+    "Consegne in tutta la Toscana. Pedala nel Chianti, a San Gimignano, a Siena, a Volterra, a Monteriggioni, a Colle Val d’Elsa, a Casole d’Elsa ed oltre",
+    "Contattaci per conoscere il costo della consegna",
+    "Con ogni bicicletta è incluso un casco e un kit di foratura (camera d’aria, leva copertone, CO2 o pompa)",
+    "Il costo giornaliero consiste in un periodo di noleggio che inizia dalle ore 9:00 della mattina fino alle 19:00 di sera dello stesso giorno",
+    "Si consiglia di presentarsi con un abbigliamento sportivo adeguato",
+    "Borsa posteriore Ortlieb per biciclette Touring: 10€",
+    "Seggiolino porta Bimbo per biciclette Touring: 10€",
+    "Porta biciclette per auto (1 settimana): 25€",
+    "Garmin: 10€",
+    "if you don’t select any pedals, we will set up flat pedals",
+    "you can select the delivery area from the add-ons section",
+    "Pedali Flat Pedals Shimano SPD SL Look KEO shimano SPD MTB Toe Clip Pedals No Pedals Look Classic",
+    "Il noleggio dei caschi è incluso con la Vespa .",
+    "Per noleggiare la Vespa deve essere esibita una patente di guida valida.",
+    "Noleggia la tua bicicletta a Colle di Val d’Elsa , nel cuore della campagna toscana, tra San Gimignano , Casole d’Elsa , Siena , Volterra e Monteriggioni . Con il servizio di consegna raggiungiamo facilmente tutta la Toscana e oltre.",
+    "Vi aspettiamo nel nostro negozio per offrirvi il nostro servizio.",
+    "GIPPO Bike - Loc. Ponte dell'Armi 13A - 53034 - Colle di Val d'Elsa (Siena - ITALY) - Tel. 0577 904405 - www.gippobike.it - gippo@gippobike.it - P.IVA 00638670521",
+    "Deposit (cauzione), insurance (assicurazione) and opening hours other than the 9:00-19:00 rental window: not found on these three pages (null)."
+  ],
+  "language_notes": "Italian page with English fragments: the quick-booking info lines (\"INFO FOR THE QUICK BOOKING\", \"you can select the delivery area from the add-ons section\", \"if you don’t select any pedals, we will set up flat pedals\"), pedal option labels (\"Flat Pedals\", \"No Pedals\", \"Look Classic\"), the Lokki link for the first bike uses /it/ while the other bikes use /en/, and the 2 bike listing links on the Vespa page use English Lokki URLs. The Vespa page mixes \"Richiedi informazioni\" (IT) with \"Prenotazione rapida\" (IT label, EN URL). Price labels are \"Giornaliero:\" / \"Settimanale:\" (IT), no English price labels."
+}
